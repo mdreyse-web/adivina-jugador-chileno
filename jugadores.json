@@ -3,331 +3,1271 @@
     "nombre": "Pablo",
     "apellido": "Abdala",
     "nombreCompleto": "Pablo Abdala",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile, Palestino",
+    "posicion": "MED",
+    "clubes": "Rosario Central, Deportes Arica, Millonarios, Tecnico Universitario, Cobreloa, Universidad de Concepcion, Deportes Temuco, Deportes Melipilla, Argentino de Rosario",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Defensor, jugó en Universidad de Chile"
+    "detalles": "Chascon que jugaba por Cobreloa en los 90/00"
   },
   {
     "nombre": "Miguel",
     "apellido": "Aceval",
     "nombreCompleto": "Miguel Aceval",
     "posicion": "DEF",
-    "clubes": "Universidad de Chile, Universidad Católica, O'Higgins",
+    "clubes": "Colo Colo, O'Higgins, Huachipato, Union Española, Universidad de Concepcion, Toronto FC, Curico Unido, Deportes Temuco, San Antonio Unido",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Defensor central, campeón con O'Higgins en 2013"
+    "detalles": "Cabeza de tele, tenia buena pegada"
   },
   {
     "nombre": "Albert",
     "apellido": "Acevedo",
     "nombreCompleto": "Albert Acevedo",
     "posicion": "DEF",
-    "clubes": "Universidad de Chile, Universidad Católica, O'Higgins",
+    "clubes": "Union Española, Universidad Catolica, Cobreloa, Universidad de Chile, O'Higgins, Magallanes, ",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con O'Higgins en 2013"
+    "seleccionNacional": true,
+    "detalles": "Casi se pitea a la arana Olivares de una patada"
   },
   {
     "nombre": "Alberto",
     "apellido": "Acosta",
     "nombreCompleto": "Alberto Acosta",
-    "posicion": "DEF",
-    "clubes": "Ferroviarios, Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Defensor de los años 60-70"
+    "posicion": "DEL",
+    "clubes": "Union Santa Fe, San Lorenzo, Toulouse, San Lorenzo, Boca Juniors, Universidad Catolica, Yokohama Marinos, Sporting de Lisboa",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El Beto Acosta, aun tiene pesadillas con Luchito Musrri"
   },
   {
     "nombre": "Nelson",
     "apellido": "Acosta",
     "nombreCompleto": "Nelson Acosta",
     "posicion": "MED",
-    "clubes": "Cobreloa, Everton, Unión Española",
-    "campeonNacional": true,
+    "clubes": "Huracan Buceo, Peñarol, Everton de Viña del Mar, O'Higgins, Fernandez Vial, Lota Schwager",
+    "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Como DT: 2 títulos con Cobreloa, 1 con Everton (2008), 2 Copa Chile con Unión Española"
+    "detalles": "Como DT: 2 titulos con Cobreloa, 1 con Everton (2008), 2 Copa Chile con Union Espanola. Simplemente Don Nelson"
   },
   {
     "nombre": "Clarence",
     "apellido": "Acuña",
     "nombreCompleto": "Clarence Acuña",
     "posicion": "MED",
-    "clubes": "Universidad de Chile, Rosario Central",
+    "clubes": "O'Higgins, Universidad de Chile, Newcastle United, Rosario Central, Palestino, Union Española, Deportes Concepcion, Deportes La Serena",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile en 2000"
+    "detalles": "Tambien conocido como Brad Pitt Acuña"
   },
   {
     "nombre": "Jorge",
-    "apellido": "Acuña",
+    "apellido": "Acu{a",
     "nombreCompleto": "Jorge Acuña",
     "posicion": "MED",
-    "clubes": "Universidad de Chile, Huachipato",
+    "clubes": "Union Española, Universidad Catolica, Feyenoord, R. B. C. Roosendaal, Universidad de Chile, Mamelodi Sundowns, Ñublense, Union San Felipe, Rangers de Talca, Cobresal",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile"
+    "detalles": "Era mejor pal webeo que pa la pelota"
   },
   {
     "nombre": "Axel",
     "apellido": "Ahumada",
     "nombreCompleto": "Axel Ahumada",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile",
+    "posicion": "DEL",
+    "clubes": "Colo Colo, Universidad de Concepcion, San Luis de Quillota, Coquimbo Unido, Deportes La Serena, Centro Sportivo Alagoano, Everton de Viña del Mar, Cobresal, Deportes Arica, Rangers de Talca, Deportivo Italmaracaibo",
     "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Defensor de los años 90"
+    "seleccionNacional": true,
+    "detalles": "Poca gente sabe de su existencia"
   },
   {
     "nombre": "Sergio",
     "apellido": "Ahumada",
     "nombreCompleto": "Sergio Ahumada",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "posicion": "DEL",
+    "clubes": "Deportes La Serena, San Antonio Unido, Colo Colo, Union Española, Tecos, Everton de Viña del Mar, O'Higgins, Deportes La Serena, Coquimbo Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Un vejete"
   },
   {
     "nombre": "Luis",
-    "apellido": "Álamos",
-    "nombreCompleto": "Luis Álamos",
+    "apellido": "Alamos",
+    "nombreCompleto": "Luis Alamos",
     "posicion": "MED",
     "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "DT histórico, no como jugador"
-  },
-  {
-    "nombre": "Cristián",
-    "apellido": "Álvarez",
-    "nombreCompleto": "Cristián Álvarez",
-    "posicion": "POR",
-    "clubes": "Universidad de Chile, Colo Colo",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Portero, campeón con Universidad de Chile"
+    "detalles": "El Zorro"
   },
   {
-    "nombre": "Iván",
-    "apellido": "Álvarez",
-    "nombreCompleto": "Iván Álvarez",
+    "nombre": "Cristian",
+    "apellido": "Alvarez",
+    "nombreCompleto": "Cristian Alvarez",
     "posicion": "DEF",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Defensor de los años 90"
+    "clubes": "Universidad Catolica, River Plate, Beitar Jerusalen, Chiapas, Universitorio de Lima",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugador de Cagolica, segundon"
   },
   {
-    "nombre": "Luis Hernán",
-    "apellido": "Álvarez",
-    "nombreCompleto": "Luis Hernán Álvarez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "nombre": "Ivan",
+    "apellido": "Alvarez",
+    "nombreCompleto": "Ivan Alvarez",
+    "posicion": "DEL",
+    "clubes": "Universidad Catolica, Deportes Temuco, Rangers de Talca, Santiago Wanderers, Cobreloa, Palestino, Deportes Concepcion, Deportes Puerto Montt, Jorge Wilstermann, Deportes Melipilla, Rangers de Talca",
     "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Jugador de los años 60"
+    "detalles": "Hermano de Cristian, puntero de esos rapiditos"
   },
   {
-    "nombre": "José Luis",
-    "apellido": "Álvarez",
-    "nombreCompleto": "José Luis Álvarez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "nombre": "Luis Hernan",
+    "apellido": "Alvarez",
+    "nombreCompleto": "Luis Hernan Alvarez",
+    "posicion": "DEL",
+    "clubes": "Colo Colo, Magallanes, Alianza FC, Green Cross, Antofagasta Portuario",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugador de los anos 60 marco 37 goles en un campeonato. Padre de Ivan y Cristian"
+  },
+  {
+    "nombre": "Jose Luis",
+    "apellido": "Alvarez",
+    "nombreCompleto": "Jose Luis Alvarez",
+    "posicion": "DEL",
+    "clubes": "Deportes La Serena, Colo Colo, O'Higgins, Fluminense, Union La Calera, Magallanes, Deportes Arica, Cobreandino, Sporting Cristal, Jorge Wilstermann, Municipal Talagante",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Otro vejete"
   },
   {
     "nombre": "Eduardo",
     "apellido": "Arancibia",
     "nombreCompleto": "Eduardo Arancibia",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile, Colo Colo",
+    "posicion": "MED",
+    "clubes": "Universidad de Chile, Atlas, Leon, Universidad Catolica, Union Española, Cobreloa, Rangers de Talca, Universidad de Concepcion, Deportes Antofagasta, Santiago Morning, San Luis de Quillota",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con Colo Colo"
+    "seleccionNacional": true,
+    "detalles": "Le decian el pollo, parte de la familia Arancibia junto a Franz, Leopoldo y Roque"
   },
   {
     "nombre": "Franz",
     "apellido": "Arancibia",
     "nombreCompleto": "Franz Arancibia",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "posicion": "DEL",
+    "clubes": "Magallanes, San Luis de Quillota, St. Gallen, Magallanes, Deportes La Serena, Universidad de Chile, Deportes Temuco, Huachipato, Deportes Puerto Montt, Everton de Viña del Mar, Deportes La Serena, Deportes Antofagasta, Deportes Melipilla",
     "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "seleccionNacional": true,
+    "detalles": "Se pegaba buenos piques, tambien parte de los hermanos Arancibia"
   },
   {
     "nombre": "Jorge",
     "apellido": "Aravena",
     "nombreCompleto": "Jorge Aravena",
-    "posicion": "DEL",
-    "clubes": "Universidad Católica, Real Valladolid, Deportivo Cali, Puebla, Audax Italiano",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica, Santiago Morning, Naval, Real Valladolid, Deportivo Cali, Puebla, Portuguesa, Union Española, Audax Italiano",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "El 'Mortero', campeón con Universidad Católica en 1983 y 1984"
+    "detalles": "El 'Mortero', famoso por hacer el gol imposible"
   },
   {
     "nombre": "Orlando",
     "apellido": "Aravena",
     "nombreCompleto": "Orlando Aravena",
-    "posicion": "DEF",
-    "clubes": "Colo Colo",
+    "posicion": "MED",
+    "clubes": "Magallanes, Deportes La Serena, Palestino, Colo Colo, Ñublense",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con Colo Colo"
+    "seleccionNacional": true,
+    "detalles": "Otro vejete"
   },
   {
     "nombre": "Pedro",
     "apellido": "Araya",
     "nombreCompleto": "Pedro Araya",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "posicion": "DEL",
+    "clubes": "Universidad de Chile, Real San Luis, Atlas",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Campeón con Universidad de Chile en 1969"
+    "detalles": "El chico Araya, famoso puntero derecho"
   },
   {
     "nombre": "Fernando",
     "apellido": "Astengo",
     "nombreCompleto": "Fernando Astengo",
     "posicion": "DEF",
-    "clubes": "Grêmio, Colo Colo, Unión Española",
+    "clubes": "Union Española, Rangers de Talca, Colo Colo, Gremio, Union Española, Audax Italiano",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Defensor \"El León\", 19 partidos y 3 goles con La Roja, Copa América 1987 y 1989, subcampeón 1987."
+    "detalles": "Fue complice del Condor Rojas de dejarnos sin dos mundiales"
   },
   {
     "nombre": "Rodrigo",
     "apellido": "Barrera",
     "nombreCompleto": "Rodrigo Barrera",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
+    "clubes": "Universidad Catolica, Necaxa, Universidad de Chile, Olympiakos Nicosia, Deportes Melipilla, Palestino",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Delantero, 22 partidos y 5 goles con La Roja, Mundial 1998 y 2 Copas América."
+    "detalles": "El Chamuca, lo mejor que tenia era su señora"
   },
   {
     "nombre": "Lucas",
     "apellido": "Barrios",
     "nombreCompleto": "Lucas Barrios",
-    "posicion": "DEF",
-    "clubes": "Cobreloa, Colo Colo, Borussia Dortmund",
+    "posicion": "DEL",
+    "clubes": "Argentinos Juniors, Tigre, Deportes Temuco, Tiro Federal, Cobreloa, Atlas, Colo Colo, Borussia Dortmund, Guangzhou Evergrande, Spartak de Moscu, Montpellier, Palmeiras, Gremio, Argentinos Juniors, Colo Colo, Huracan, Gimnasia y Esgrima La Plata, Defensa y Justicia, Patronato, Sportivo Trinidense, Sportivo Luqueño",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Colo Colo"
+    "detalles": "Rafa Olarra lo sigue buscando"
   },
   {
     "nombre": "Julio",
     "apellido": "Barroso",
     "nombreCompleto": "Julio Barroso",
     "posicion": "DEF",
-    "clubes": "Universidad Católica, Colo Colo",
+    "clubes": "Argentinos Juniors, Boca Juniors, Racing Club, Lorca CF, Estudiantes de La Plata, Ñublense, O'Higgins, Colo Colo, Everton de Viña del Mar",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Defensor, campeón con Colo Colo"
+    "detalles": "Defensa, buena paila, evangelico lloron"
   },
   {
     "nombre": "Marcelo",
     "apellido": "Barticciotto",
     "nombreCompleto": "Marcelo Barticciotto",
     "posicion": "DEL",
-    "clubes": "Colo Colo",
+    "clubes": "Huracan, Colo Colo, America, Universidad Catolica",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Ídolo de Colo Colo, múltiples campeonatos en los 90"
+    "detalles": "Canto en el festival de vina del mar usando unas chalukis"
   },
   {
     "nombre": "Ivo",
     "apellido": "Basay",
     "nombreCompleto": "Ivo Basay",
     "posicion": "DEL",
-    "clubes": "Magallanes, Necaxa, Boca Juniors, Colo Colo",
+    "clubes": "Magallanes, Curico Unido, Everton de Viña del Mar, Stade Reims, Necaxa, Boca Juniors, Colo Colo",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Colo Colo en 1996 y 1997"
+    "seleccionNacional": true,
+    "detalles": "Paso de ser el Hueso Basay a ser el Grueso Basay"
   },
   {
     "nombre": "Jean",
     "apellido": "Beausejour",
     "nombreCompleto": "Jean Beausejour",
     "posicion": "MED",
-    "clubes": "Universidad Católica, Colo Colo, Universidad de Chile, América, Wigan, Birmingham",
+    "clubes": "Universidad Catolica, Universidad de Concepcion, Servette, Gremio, Gent, Cobreloa, O'Higgins, America, Birmingham City, Wigan Athletic, Colo Colo, Universidad de Chile, Coquimbo Unido",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Campeón con UC (2002), Colo Colo (2015-16), y U de Chile (2016-17)"
-  },
-  {
-    "nombre": "Eduardo",
-    "apellido": "Berizzo",
-    "nombreCompleto": "Eduardo Berizzo",
-    "posicion": "DEF",
-    "clubes": "Newell's Old Boys, Universidad de Chile, Marseille, Celta de Vigo, Córdoba",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Defensor central argentino, 13 partidos con Argentina, Copas América 1997 y 1999. Campeón con U de Chile 2000."
+    "detalles": "Participo del Puerto Ordazo"
   },
   {
     "nombre": "Gustavo",
-    "apellido": "Biscayzacú",
-    "nombreCompleto": "Gustavo Biscayzacú",
+    "apellido": "Biscayzacu",
+    "nombreCompleto": "Gustavo Biscayzacu",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
+    "clubes": "Defensor Sporting, Fernandez Vial, Santiago Morning, Real Jaen, Melbourne Knights, Union Española, Veracruz, Atlante, Colo Colo, Necaxa, Nacional de Montevideo, Portuguesa, River Plate, Deportivo Cali, Deportes Quindio, El Tanque Sisley, Boston River",
+    "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero uruguayo, jugó en Universidad de Chile, no registra partidos con selección mayor."
+    "detalles": "Delantero uruguayo, jugo en Colo Colo, no registra partidos con seleccion mayor."
   },
   {
     "nombre": "Roberto",
     "apellido": "Bishara",
     "nombreCompleto": "Roberto Bishara",
     "posicion": "DEF",
-    "clubes": "Palestino",
+    "clubes": "Universidad Catolica, Palestino, Santiago Wanderers",
     "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Defensor palestino-chileno"
+    "detalles": "Jugo por la seleccion de Palestina. Le pegaba a lo que se movia. Camello"
   },
   {
     "nombre": "Cristian",
     "apellido": "Bogado",
     "nombreCompleto": "Cristian Bogado",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
+    "clubes": "Sol de America, Libertad de Paraguay, Nacional de Asuncion, Estudiantes de La Plata, Deportes Iquique, Colo Colo, Olimpia, Union Comercio, Rubio Ñu, Audax Italiano, Alianza Universidad, River Plate, Deportivo Capiata, General Caballero",
+    "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero paraguayo"
+    "detalles": "Delantero paraguayo, guaton parecia guardia de disco"
   },
   {
     "nombre": "Eduardo",
     "apellido": "Bonvallet",
     "nombreCompleto": "Eduardo Bonvallet",
     "posicion": "MED",
-    "clubes": "Universidad de Chile, Colo Colo",
+    "clubes": "Universidad de Chile, Universidad Catolica, O'Higgins, Fort Lauderdale Strikers, Tampa Bay Rowdies, Union San Felipe",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "El guru"
+  },
+  {
+    "nombre": "Jose Luis",
+    "apellido": "Jerez",
+    "nombreCompleto": "Jose Luis Jerez",
+    "posicion": "MED",
+    "clubes": "Union Española, Ñublense, Colo Colo, Ethnikos Piraeus, Panserraikos, Cobreloa, Deportes La Serena",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, tricampeon del Campeonato Nacional con Colo Colo "
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Jimenez",
+    "nombreCompleto": "Luis Jimenez",
+    "posicion": "MED",
+    "clubes": "Palestino, Ternana, Fiorentina, Lazio, Inter de Milan, West Ham United, Parma, Ternana, Cesena, Al-Ahli, Al-Nasr, Al-Arabi, Al-Gharafa, Qatar SC, Palestino, Al-Ittihad, Palestino, Magallanes",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista formado en Palestino"
+  },
+  {
+    "nombre": "Braulio",
+    "apellido": "Leal",
+    "nombreCompleto": "Braulio Leal",
+    "posicion": "MED",
+    "clubes": "Colo Colo, Vitoria, Everton de Viña del Mar, Audax Italiano, Union Española, O'Higgins, San Luis de Quillota, Deportes Iquique, Magallanes",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Colo Colo y O'Higgins"
+  },
+  {
+    "nombre": "Pablo",
+    "apellido": "Lenci",
+    "nombreCompleto": "Pablo Lenci",
+    "posicion": "DEF",
+    "clubes": "Newell's Old Boys, Coquimbo Unido, Deportes Iquique, Santiago Morning, Correcaminos, Universidad Catolica, Palestino, Audax Italiano, Santiago Wanderers",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile y Colo Colo"
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad Catolica"
+  },
+  {
+    "nombre": "Mario",
+    "apellido": "Lepe",
+    "nombreCompleto": "Mario Lepe",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica"
+  },
+  {
+    "nombre": "Juan Carlos",
+    "apellido": "Letelier",
+    "nombreCompleto": "Juan Carlos Letelier",
+    "posicion": "DEL",
+    "clubes": "Santiago Wanderers, Audax Italiano, Cobreloa, Independiente de Medellin, Deportes La Serena, Inter de Porto Alegre, Cruz Azul, Deportes Antofagasta, Universitorio de Lima, Caracas , Santiago Wanderers, Sporting Cristal, Deportes La Serena",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Cobreloa en 2 oportunidades"
+  },
+  {
+    "nombre": "Sergio",
+    "apellido": "Livingstone",
+    "nombreCompleto": "Sergio Livingstone",
+    "posicion": "POR",
+    "clubes": "Universidad Catolica, Racing Club, Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Portero historico, campeon con Universidad Catolica"
+  },
+  {
+    "nombre": "Eduardo",
+    "apellido": "Lobos",
+    "nombreCompleto": "Eduardo Lobos",
+    "posicion": "POR",
+    "clubes": "Colo Colo, Audax Italiano, Krylia Sovetov, Union Española, Santiago Wanderers, San Marcos de Arica, Cobresal, Everton de Viña del Mar, Coquimbo Unido",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Portero formado en Colo Colo"
+  },
+  {
+    "nombre": "Gustavo",
+    "apellido": "Lorenzetti",
+    "nombreCompleto": "Gustavo Lorenzetti",
+    "posicion": "MED",
+    "clubes": "Rosario Central, Coquimbo Unido, Universidad de Concepcion, Universidad de Chile, Nacional de Montevideo, Deportes Iquique",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad de Chile en 4 oportunidades"
+  },
+  {
+    "nombre": "Ricardo",
+    "apellido": "Lunari",
+    "nombreCompleto": "Ricardo Lunari",
+    "posicion": "MED",
+    "clubes": "Newell's Old Boys, Universidad Catolica, Atlas, Puebla, Millonarios, Salamanca, Farense, Almagro, Oriente Petrolero, Estudiantes de Merida, Centenario",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica"
+  },
+  {
+    "nombre": "Rodrigo",
+    "apellido": "Mannara",
+    "nombreCompleto": "Rodrigo Mannara",
+    "posicion": "DEL",
+    "clubes": "Lanus, Arsenal de Sarandi, Racing Club, Cobreloa, Deportes Puerto Montt, Cobreloa, Universidad Catolica, Union de Santa Fe, Lamadrid, Jorge Newbery, Recreativo Larroude, Textil Mandiyu de Corrientes, Libertad de Sunchales, SAT, Argentino de Merlo, Deportivo Roca de Rio Negro",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad Catolica"
+  },
+  {
+    "nombre": "Ruben",
+    "apellido": "Marcos",
+    "nombreCompleto": "Ruben Marcos",
+    "posicion": "MED",
+    "clubes": "Universidad de Chile, Emelec, Palestino",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad de Chile en 5 oportunidades"
+  },
+  {
+    "nombre": "Javier",
+    "apellido": "Margas",
+    "nombreCompleto": "Javier Margas",
+    "posicion": "DEF",
+    "clubes": "Colo Colo, America, Universidad Catolica, West Ham United",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensor, campeon del Campeonato Nacional con Universidad Catolica y Colo Colo"
+  },
+  {
+    "nombre": "Fernando",
+    "apellido": "Martel",
+    "nombreCompleto": "Fernando Martel",
+    "posicion": "MED",
+    "clubes": "Union San Felipe, Everton de Viña del Mar, Santiago Morning, Santiago Wanderers, Cobreloa, Jaguares de Chiapas, Atlante, Alianza Lima, Everton de Viña del Mar, Atletico Nacional, Ñublense, Deportes Iquique, Deportes Antofagasta",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Cobreloa"
+  },
+  {
+    "nombre": "Hans",
+    "apellido": "Martinez",
+    "nombreCompleto": "Hans Martinez",
+    "posicion": "DEF",
+    "clubes": "Universidad Catolica, Almeria, O'Higgins, Audax Italiano, Universidad de Concepcion, Lautaro de Buin",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Defensor, campeon del Campeonato Nacional con Universidad Catolica"
+  },
+  {
+    "nombre": "Rodrigo",
+    "apellido": "Melendez",
+    "nombreCompleto": "Rodrigo Melendez",
+    "posicion": "MED",
+    "clubes": "Cobreloa, Quilmes, Estudiantes de La Plata, Colo Colo, Deportes Iquique, San Luis de Quillota, San Antonio Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon del Campeonato Nacional con Cobreloa y Colo Colo"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Mena",
+    "nombreCompleto": "Luis Mena",
+    "posicion": "DEF",
+    "clubes": "Colo Colo, Deportes Puerto Montt",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensor, campeon del Campeonato Nacional con Colo Colo en 11 oportunidades"
+  },
+  {
+    "nombre": "Gabriel",
+    "apellido": "Mendoza",
+    "nombreCompleto": "Gabriel Mendoza",
+    "posicion": "DEF",
+    "clubes": "O'Higgins, Colo Colo, Sao Paulo, Tigres, Santiago Wanderers, Shandong Luneng, Colo Colo, Santiago Morning",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensor, campeon de la Copa Libertadores con Colo Colo"
+  },
+  {
+    "nombre": "Fernando",
+    "apellido": "Meneses",
+    "nombreCompleto": "Fernando Meneses",
+    "posicion": "MED",
+    "clubes": "Colo Colo, O'Higgins, Cobreloa, Universidad de Concepcion, Universidad Catolica, Alianza Lima, Tiburones Rojos de Veracruz, Union Española, Union La Calera, Deportes Melipilla, Lautaro de Buin, Rodelindo Roman",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Colo Colo y Universidad Catolica"
+  },
+  {
+    "nombre": "Rodrigo",
+    "apellido": "Millar",
+    "nombreCompleto": "Rodrigo Millar",
+    "posicion": "MED",
+    "clubes": "Huachipato, Colo Colo, Once Caldas, Atlas, Morelia, Mazatlan FC, Coquimbo Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Colo Colo en 4 oportunidades"
+  },
+  {
+    "nombre": "Ezequiel",
+    "apellido": "Miralles",
+    "nombreCompleto": "Ezequiel Miralles",
+    "posicion": "DEL",
+    "clubes": "Liniers, Tres Arroyos, Ferro, Defensa y Justicia, Racing Club, Talleres de Cordoba, Everton de Viña del Mar, Colo Colo, Gremio, Santos, Atlante, Olimpo, Huracan",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Everton y Colo Colo"
+  },
+  {
+    "nombre": "Milovan",
+    "apellido": "Mirosevic",
+    "nombreCompleto": "Milovan Mirosevic",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica, Racing Club, Beitar Jerusalen, Argentinos Juniors, Al-Ain, Columbus Crew, Union Española",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades"
+  },
+  {
+    "nombre": "Leonardo",
+    "apellido": "Monje",
+    "nombreCompleto": "Leonardo Monje",
+    "posicion": "DEL",
+    "clubes": "Universidad Catolica, Everton de Viña del Mar, Santiago Morning, Palestino, Deportes Antofagasta, Audax Italiano, Magallanes, Deportes Puerto Montt, Universidad de Concepcion, Deportes Concepcion, Huachipato, Union Española, Rosario Central, Municipal, Coquimbo Unido",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon de la Copa Chile con la Universidad de Concepcion"
+  },
+  {
+    "nombre": "Cristian",
+    "apellido": "Montecinos",
+    "nombreCompleto": "Cristian Montecinos",
+    "posicion": "DEL",
+    "clubes": "Rangers de Talca, Union Española, Deportes Temuco, Junior de Barranquilla, Deportes Tolima, Santos Laguna, Deportes Concepcion, Cruz Azul Hidalgo, Colo Colo, Necaxa, Puebla, Al-Wasl, Dubai CSC, Al-Ittihad, Al-Wahda, San Marcos de Arica",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon de la Copa Chile con Union Española"
+  },
+  {
+    "nombre": "Mario",
+    "apellido": "Moreno",
+    "nombreCompleto": "Mario Moreno",
+    "posicion": "DEL",
+    "clubes": "Colo Colo, Antofagasta Portuario",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Colo Colo en 3 oportunidades"
+  },
+  {
+    "nombre": "Daniel",
+    "apellido": "Moron",
+    "nombreCompleto": "Daniel Moron",
+    "posicion": "POR",
+    "clubes": "Andes Talleres de Mendoza, Atletico Ledesma de Jujuy, Union de Santa Fe, Colo Colo, Provincial Osorno, Deportes Concepcion, Palestino, Audax Italiano",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Portero, campeon de la Copa Libertadores con Colo Colo"
+  },
+  {
+    "nombre": "Rodolfo",
+    "apellido": "Moya",
+    "nombreCompleto": "Rodolfo Moya",
+    "posicion": "DEL",
+    "clubes": "Everton de Viña del Mar, Universidad Catolica, Austria Viena, Universidad de Chile, Huachipato, Deportes La Serena, Audax Italiano, Colo Colo, Palestino",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Colo Colo en 2 oportunidades"
+  },
+  {
+    "nombre": "Cristian",
+    "apellido": "Munoz",
+    "nombreCompleto": "Cristian Munoz",
+    "posicion": "MED",
+    "clubes": "Universidad de Chile, Cobreloa, Santiago Wanderers, Deportes La Serena, Santiago Morning, Deportes Puerto Montt, Deportes Melipilla, Jose Galvez, Total Chalaco, Ilioupoli, Coquimbo Unido, Iberia, Rangers de Talca, Barnechea, Union San Felipe",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad de Chile"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Musrri",
+    "nombreCompleto": "Luis Musrri",
+    "posicion": "MED",
+    "clubes": "Universidad de Chile, Yunnan Hongta",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad de Chile en 5 oportunidades"
+  },
+  {
+    "nombre": "Reinaldo",
+    "apellido": "Navia",
+    "nombreCompleto": "Reinaldo Navia",
+    "posicion": "DEL",
+    "clubes": "Santiago Wanderers, Tecos, America, Morelia, Monterrey, San Luis Potosi, Atlas, Racing Club, LDU de Quito, Santiago Morning, Deportivo Irapuato, Ñublense, Atlanta Silverbacks",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Delantero formado en Santiago Wanderers"
+  },
+  {
+    "nombre": "Miguel Angel",
+    "apellido": "Neira",
+    "nombreCompleto": "Miguel Angel Neira",
+    "posicion": "MED",
+    "clubes": "Huachipato, Union Española, O'Higgins, Universidad Catolica",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Huachipato, Union Española y Universidad Catolica"
+  },
+  {
+    "nombre": "Manuel",
+    "apellido": "Neira",
+    "nombreCompleto": "Manuel Neira",
+    "posicion": "DEL",
+    "clubes": "Colo Colo, Sao Paulo, Everton de Viña del Mar, Las Palmas, Racing Club, Union Española, America de Cali, Jaguares de Chiapas, Hapoel Tel Aviv, Gaziantepspor, Deportes La Serena, Universidad Catolica de Ecuador, Santiago Morning, San Luis de Quillota, Union San Felipe",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero. Figura de Unión Española y Colo Colo. Participó en un Reality."
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Olivares",
+    "nombreCompleto": "Juan Olivares",
+    "posicion": "POR",
+    "clubes": "Santiago Wanderers, Union Española, Union San Felipe, Magallanes, Deportes La Serena, Deportes Concepcion, Cobreloa, Huachipato, Trasandino",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Portero de los anos 70, Ciudadano ilustre de Valparaiso. Participó en el Mundial del 66 y 74"
+  },
+  {
+    "nombre": "Fabian",
+    "apellido": "Orellana",
+    "nombreCompleto": "Fabian Orellana",
+    "posicion": "DEL",
+    "clubes": "Audax Italiano, Xerez, Eibar, Real Valladolid, Universidad Catolica, Udinese, Granada, Celta de Vigo, Valencia",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero. Parte de la Selección Nacional en los mundiales de 2010 y 2014. Campeon Copa America"
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Ormeno",
+    "nombreCompleto": "Jorge Ormeno",
+    "posicion": "MED",
+    "clubes": "Santiago Wanderers, Universidad Catolica",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante ícono de Santiago Wanderers y Universidad Católica"
+  },
+  {
+    "nombre": "Raul",
+    "apellido": "Ormeno",
+    "nombreCompleto": "Raul Ormeno",
+    "posicion": "MED",
+    "clubes": "Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante historico de Colo Colo, campeon de Libertadores"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Ortega",
+    "nombreCompleto": "Carlos Ortega",
+    "posicion": "POR",
+    "clubes": "Huachipato, Universidad de Concepcion, Cobreloa, Deportes Antofagasta",
+    "campeonNacional": false,
+    "seleccionNacional": false,
+    "detalles": "Jugador de los anos 70"
+  },
+  {
+    "nombre": "Mario",
+    "apellido": "Osben",
+    "nombreCompleto": "Mario Osben",
+    "posicion": "POR",
+    "clubes": "Deportes Concepcion, Ñublense, Lota Schwager, Union Española, Colo Colo, Cobreloa, Universidad de Concepcion",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Titular en Mundial España 1982"
+  },
+  {
+    "nombre": "Esteban",
+    "apellido": "Paredes",
+    "nombreCompleto": "Esteban Paredes",
+    "posicion": "DEL",
+    "clubes": "Santiago Morning, Deportes Puerto Montt, Universidad de Concepcion, Pachuca Juniors, Cobreloa, Colo Colo, Atlante, Queretaro, Coquimbo Unido, San Antonio Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Maximo goleador historico del torneo nacional"
+  },
+  {
+    "nombre": "Manuel",
+    "apellido": "Pellegrini",
+    "nombreCompleto": "Manuel Pellegrini",
+    "posicion": "DEF",
+    "clubes": "Universidad de Chile",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Relevancia histórica como entrenador, no como jugador"
+  },
+  {
+    "nombre": "Rodrigo",
+    "apellido": "Perez",
+    "nombreCompleto": "Rodrigo Perez",
+    "posicion": "DEF",
+    "clubes": "O'Higgins, Santiago Wanderers, Cobreloa, Pachuca, Alianza Lima, Union Española, Deportes Concepcion, Deportes Iquique",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Lateral izquierdo histórico de Cobreloa"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Perez",
+    "nombreCompleto": "Luis Perez",
+    "posicion": "MED",
+    "clubes": "Magallanes, Universidad Catolica, Colo Colo, Atletico Morelia, Deportes Temuco, Santiago Morning, Palestino, Deportes Melipilla",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Parte del plantel campeón de Copa Libertadores 1991"
+  },
+  {
+    "nombre": "Nicolas",
+    "apellido": "Peric",
+    "nombreCompleto": "Nicolas Peric",
+    "posicion": "POR",
+    "clubes": "Rangers de Talca, Universidad de Concepcion, Union Española, Audax Italiano, Genclebirligi, Everton de Viña del Mar, Argentinos Juniors, Olimpia, Cobreloa, Cobresal",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Portero, campeon con Argentinos Juniors en 2010"
+  },
+  {
+    "nombre": "Mauricio",
+    "apellido": "Pinilla",
+    "nombreCompleto": "Mauricio Pinilla",
+    "posicion": "DEL",
+    "clubes": "Universidad de Chile, Inter de Milan, Chievo, Celta de Vigo, Sporting de Lisboa, Racing de Santander, Heart of Midlothian, Vasco da Gama, Apollon Limassol, Grosseto, Palermo, Cagliari, Atalanta, Genoa, Coquimbo Unido",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon con Universidad de Chile en 2004"
+  },
+  {
+    "nombre": "David",
+    "apellido": "Pizarro",
+    "nombreCompleto": "David Pizarro",
+    "posicion": "MED",
+    "clubes": "Santiago Wanderers, Udinese, Inter de Milan, Roma, Manchester City, Fiorentina, Universidad de Chile",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Universidad de Chile en 2017"
+  },
+  {
+    "nombre": "Alberto",
+    "apellido": "Quintano",
+    "nombreCompleto": "Alberto Quintano",
+    "posicion": "DEF",
+    "clubes": "Universidad de Chile, Cruz Azul, Universidad Catolica, Magallanes",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensor historico, campeon con Universidad de Chile en los anos 60"
+  },
+  {
+    "nombre": "Luis Ignacio",
+    "apellido": "Quinteros",
+    "nombreCompleto": "Luis Ignacio Quinteros",
+    "posicion": "DEL",
+    "clubes": "Colo Colo, Deportes Temuco, Puebla, Universidad Catolica, Leon, Colon de Santa Fe, Gimnasia y Esgrima La Plata, Huachipato, Union Temuco",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugador de los anos 90"
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Ramirez",
+    "nombreCompleto": "Miguel Ramirez",
+    "posicion": "DEF",
+    "clubes": "Universidad Catolica, Colo Colo, Real Sociedad, Monterrey",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensor, campeon con Universidad Catolica y Colo Colo"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Reinoso",
+    "nombreCompleto": "Carlos Reinoso",
+    "posicion": "MED",
+    "clubes": "Audax Italiano, America, Deportivo Neza",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Volante historico, no campeon en Chile"
+  },
+  {
+    "nombre": "Gerardo",
+    "apellido": "Reinoso",
+    "nombreCompleto": "Gerardo Reinoso",
+    "posicion": "MED",
+    "clubes": "Independiente, River Plate, Boca Juniors, Union Española, Universidad Catolica, Correcaminos, Leon, Independiente Santa Fe, LDU de Quito, Santiago Wanderers, Palestino, Deportivo Cali, Jorge Wilstermann, General Paz, Patronato, Oriente Petrolero",
+    "campeonNacional": false,
+    "seleccionNacional": false,
+    "detalles": "Volante de los anos 80"
+  },
+  {
+    "nombre": "Pedro",
+    "apellido": "Reyes",
+    "nombreCompleto": "Pedro Reyes",
+    "posicion": "DEF",
+    "clubes": "Deportes Antofagasta, Colo Colo, Auxerre, Universidad de Chile, Union Española, Olimpia, Deportes La Serena, Audax Italiano, Union Española",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensor, campeon con Universidad de Chile y Colo Colo"
+  },
+  {
+    "nombre": "Fernando",
+    "apellido": "Riera",
+    "nombreCompleto": "Fernando Riera",
+    "posicion": "DEL",
+    "clubes": "Union Española, Universidad Catolica, Reims, Vasco da Gama, Rouen",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "DT historico"
+  },
+  {
+    "nombre": "Diego",
+    "apellido": "Rivarola",
+    "nombreCompleto": "Diego Rivarola",
+    "posicion": "DEL",
+    "clubes": "River Plate, Platense, Santiago Morning, Universidad de Chile, Atlas, Argentinos Juniors, Maracaibo, Palestino, Alki Larnaca",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Delantero, campeon con Universidad de Chile y Colo Colo"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Rivas",
+    "nombreCompleto": "Carlos Rivas",
+    "posicion": "MED",
+    "clubes": "Audax Italiano, Deportes Antofagasta, Deportes Concepcion, Santiago Morning, Colo Colo, Santiago Wanderers, Edmonton, Dynamo Latino, Union Española, Dynamo Latino, Toronto Blizzard, Toronto Italia",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugador de los anos 70"
+  },
+  {
+    "nombre": "Leonardo",
+    "apellido": "Rodriguez",
+    "nombreCompleto": "Leonardo Rodriguez",
+    "posicion": "MED",
+    "clubes": "Lanus, Velez Sarsfield, Argentinos Juniors, San Lorenzo, Toulon, Atalanta, Borussia Dortmund, Universidad de Chile, America, Universidad de Chile, San Lorenzo, Lanus",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Jugador de los anos 90"
+  },
+  {
+    "nombre": "Francisco",
+    "apellido": "Rojas",
+    "nombreCompleto": "Francisco Rojas",
+    "posicion": "DEF",
+    "clubes": "Deportes La Serena, Colo Colo, Tenerife, Sturm Graz, Union Española",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Universidad de Chile y Colo Colo"
+  },
+  {
+    "nombre": "Roberto",
+    "apellido": "Rojas",
+    "nombreCompleto": "Roberto Rojas",
+    "posicion": "POR",
+    "clubes": "Colo Colo, Sao Paulo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Portero historico, campeon con Colo Colo, Escándalo histórico"
+  },
+  {
+    "nombre": "Sebastian",
+    "apellido": "Rozental",
+    "nombreCompleto": "Sebastian Rozental",
+    "posicion": "DEL",
+    "clubes": "Universidad Catolica, Glasgow Rangers, Independiente, Colo Colo, Grasshopper Club Zurich, Union Española, Puerto Rico Islanders, Columbus Crew, Maccabi Petah Tikva, Maccabi Netanya",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero"
+  },
+  {
+    "nombre": "Hugo",
+    "apellido": "Rubio",
+    "nombreCompleto": "Hugo Rubio",
+    "posicion": "DEL",
+    "clubes": "Rangers de Talca, Cobreloa, Malaga, Colo Colo, Bologna, St. Gallen, Colo Colo, Union Española, Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon con Colo Colo"
+  },
+  {
+    "nombre": "Mario",
+    "apellido": "Salas",
+    "nombreCompleto": "Mario Salas",
+    "posicion": "MED",
+    "clubes": "Everton de Viña del Mar, Union Española, Palestino, Colo Colo, Santiago Morning, Santiago Wanderers, Deportes Antofagasta, ",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "DT, como jugador no destaco"
+  },
+  {
+    "nombre": "Marcelo",
+    "apellido": "Salas",
+    "nombreCompleto": "Marcelo Salas",
+    "posicion": "DEL",
+    "clubes": "Universidad de Chile, River Plate, Lazio, Juventus",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Idolo de la U, bicampeon en 1994-1995 con Universidad de Chile"
+  },
+  {
+    "nombre": "Alexis",
+    "apellido": "Sanchez",
+    "nombreCompleto": "Alexis Sanchez",
+    "posicion": "DEL",
+    "clubes": "Cobreloa, Udinese, Colo Colo, River Plate, Barcelona, Arsenal, Manchester United, Inter de Milan, Marseille, Inter de Milan, Udinese, Sevilla",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El niño Maravilla. Aun no está retirado"
+  },
+  {
+    "nombre": "Arturo",
+    "apellido": "Sanhueza",
+    "nombreCompleto": "Arturo Sanhueza",
+    "posicion": "MED",
+    "clubes": "Fernandez Vial, Colo Colo, Everton de Viña del Mar, Santiago Wanderers, Deportes Iquique, Universidad de Concepcion, Deportes Temuco, Cobreloa",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Colo Colo"
+  },
+  {
+    "nombre": "Jose Luis",
+    "apellido": "Sierra",
+    "nombreCompleto": "Jose Luis Sierra",
+    "posicion": "MED",
+    "clubes": "Union Española, Real Valladolid, Sao Paulo, Colo Colo, Tigres",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Histórico de la Unión Española"
+  },
+  {
+    "nombre": "Joel",
+    "apellido": "Soto",
+    "nombreCompleto": "Joel Soto",
+    "posicion": "DEL",
+    "clubes": "Santiago Wanderers, Jaguares de Chiapas, Colo Colo, Potros Neza, Puebla, O'Higgins, Universidad de Chile, Ñublense, San Luis de Quillota, Cobresal, Union La Calera",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Campeón con Santiago Wanderers. Condenado a 12 años por tráfico de drogas"
+  },
+  {
+    "nombre": "Humberto",
+    "apellido": "Suazo",
+    "nombreCompleto": "Humberto Suazo",
+    "posicion": "DEL",
+    "clubes": "Ñublense, Magallanes, San Antonio Unido, San Luis de Quillota, Audax Italiano, Colo Colo, Monterrey, Real Zaragoza, Santa Cruz, Deportes La Serena, Rayados",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El hombre venido del planeta gol"
+  },
+  {
+    "nombre": "Nelson",
+    "apellido": "Tapia",
+    "nombreCompleto": "Nelson Tapia",
+    "posicion": "POR",
+    "clubes": "O'Higgins, Deportes Temuco, Universidad Catolica, Velez Sarsfield, Deportes Puerto Montt, Union Española, Cobreloa, Santos, Junior de Barranquilla",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Portero, campeon con Universidad Catolica, Cobreloa y Santos"
+  },
+  {
+    "nombre": "Hector",
+    "apellido": "Tapia",
+    "nombreCompleto": "Hector Tapia",
+    "posicion": "DEL",
+    "clubes": "Colo Colo, Universidad Catolica, Perugia, Palestino, Lille, Cruzeiro, Union Española, FC Thun",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "3xCampeon con Colo Colo"
+  },
+  {
+    "nombre": "Rodrigo",
+    "apellido": "Tello",
+    "nombreCompleto": "Rodrigo Tello",
+    "posicion": "MED",
+    "clubes": "Universidad de Chile, Sporting de Lisboa, Besiktas, Eskisehirspor, Elazigspor, Sanliurfaspor, Audax Italiano",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Campeón en Chile, Portugal y Turquia. Le enseñó a tirar tiros libres a CR7"
+  },
+  {
+    "nombre": "Patricio",
+    "apellido": "Toledo",
+    "nombreCompleto": "Patricio Toledo",
+    "posicion": "POR",
+    "clubes": "Universidad Catolica, Everton de Viña del Mar, Union Española, Deportes Temuco, Santiago Wanderers, Coquimbo Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugador de los anos 80-90"
+  },
+  {
+    "nombre": "Cristopher",
+    "apellido": "Toselli",
+    "nombreCompleto": "Cristopher Toselli",
+    "posicion": "POR",
+    "clubes": "Universidad Catolica, Atlas, Everton de Viña del Mar, Palestino, Central Cordoba, Universidad de Chile",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Arquero 3° lugar del mundial sub20"
+  },
+  {
+    "nombre": "Luka",
+    "apellido": "Tudor",
+    "nombreCompleto": "Luka Tudor",
+    "posicion": "DEL",
+    "clubes": "Universidad Catolica, FC Sion, Newell's Old Boys, Sabadell FC, Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Record de mayor numero de goles anotados en un solo partido (7)"
+  },
+  {
+    "nombre": "Raimundo",
+    "apellido": "Tupper",
+    "nombreCompleto": "Raimundo Tupper",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Idolo cruzado"
+  },
+  {
+    "nombre": "Juan Pablo",
+    "apellido": "Ubeda",
+    "nombreCompleto": "Juan Pablo Ubeda",
+    "posicion": "DEL",
+    "clubes": "Union Española, Sampdoria, Universidad Catolica, Colo Colo, Murcia, Alicante, Everton de Viña del Mar, Palestino, Zamora, Lanciano, Lobos de la BUAP, Curico Unido",
+    "campeonNacional": false,
+    "seleccionNacional": false,
+    "detalles": "Spiderman. Más famoso por su vida fuera de la cancha"
+  },
+  {
+    "nombre": "Jaime",
+    "apellido": "Valdes",
+    "nombreCompleto": "Jaime Valdes",
+    "posicion": "MED",
+    "clubes": "Palestino, Bari, Fiorentina, Lecce, Atalanta, Sporting de Lisboa, Parma, Deportes La Serena, San Antonio Unido, Santiago Wanderers",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Colo Colo"
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Valdivia",
+    "nombreCompleto": "Jorge Valdivia",
+    "posicion": "MED",
+    "clubes": "Universidad de Concepcion, Rayo Vallecano, Servette, Colo Colo, Palmeiras, Al-Ain, Al-Wahda, Monarcas Morelia, Mazatlan FC, Union La Calera, Necaxa",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El Mago. Idolo del Palmeiras"
+  },
+  {
+    "nombre": "Esteban",
+    "apellido": "Valencia",
+    "nombreCompleto": "Esteban Valencia",
+    "posicion": "MED",
+    "clubes": "Universidad de Chile, Provincial Osorno, Colon de Santa Fe, Deportes Puerto Montt, Palestino, Universidad Catolica, Persegi Bali",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El Huevito. Campeón con Universidad de Chile"
+  },
+  {
+    "nombre": "Rene",
+    "apellido": "Valenzuela",
+    "nombreCompleto": "Rene Valenzuela",
+    "posicion": "DEF",
+    "clubes": "Deportes Concepcion, O'Higgins, Universidad Catolica, Angeles de Puebla, Union Española",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugador de los anos 80"
+  },
+  {
+    "nombre": "Gabriel",
+    "apellido": "Vargas",
+    "nombreCompleto": "Gabriel Vargas",
+    "posicion": "DEL",
+    "clubes": "Deportes Concepcion, Deportes Puerto Montt, Cobresal, Universidad de Concepcion, Universidad de Chile, Patronato, Curico Unido",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Delantero \"El Arcangel del Gol\", campeon con U de Chile en 2011-A y 2011-C, gano Copa Sudamericana 2011. Maximo goleador historico de U de Concepcion."
+  },
+  {
+    "nombre": "Sergio",
+    "apellido": "Vargas",
+    "nombreCompleto": "Sergio Vargas",
+    "posicion": "POR",
+    "clubes": "Independiente, Emelec, Universidad de Chile, Union Española, PSM Makassar",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Arquero, campeon con Universidad de Chile en 1994, 1995, 1999 y 2000. Idolo azul."
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Vargas",
+    "nombreCompleto": "Jorge Vargas",
+    "posicion": "DEF",
+    "clubes": "Universidad Catolica, Huachipato, Coquimbo Unido, Reggina, Empoli, Livorno, Red Bull Salzburg, Spezia, San Luis de Quillota, Deportes La Serena",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Campeón en Chile y Suiza"
+  },
+  {
+    "nombre": "Ivan",
+    "apellido": "Vasquez",
+    "nombreCompleto": "Ivan Vasquez",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica, Cobreloa, O'Higgins, Audax Italiano, Magallanes, Union San Felipe",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Campeón con la Universidad Catolica. Participó en el mundial Sub20 2005"
+  },
+  {
+    "nombre": "Marcelo",
+    "apellido": "Vega",
+    "nombreCompleto": "Marcelo Vega",
+    "posicion": "MED",
+    "clubes": "Regional Atacama, Union Española, Logroñes, Colo Colo, Santiago Wanderers, MetroStars, San Jose Earthquakes, Racing Club, Ras Aikaima, Cienciano, Universidad de Chile",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El Toby. Volante de creación de los años 90"
+  },
+  {
+    "nombre": "Leonardo",
+    "apellido": "Veliz",
+    "nombreCompleto": "Leonardo Veliz",
+    "posicion": "DEL",
+    "clubes": "Everton de Viña del Mar, Union Española, Colo Colo, O'Higgins",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugador de los anos 70. Campeón con Colo Colo y Union Española"
+  },
+  {
+    "nombre": "Fernando",
+    "apellido": "Vergara",
+    "nombreCompleto": "Fernando Vergara",
+    "posicion": "DEL",
+    "clubes": "Audax Italiano, Fernandez Vial, FC Bruttisellen-Dietlikon, Universidad de Chile, Colo Colo, Deportes Antofagasta, Rayo Vallecano, Universitario de Lima, Union Española",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El BamBam de los pobres. Campeón con Colo Colo"
+  },
+  {
+    "nombre": "Mathias",
+    "apellido": "Vidangossy",
+    "nombreCompleto": "Mathias Vidangossy",
+    "posicion": "MED",
+    "clubes": "Union Española, Villarreal, Almeria, Audax Italiano, Everton de Viña del Mar, Ñublense, Ceara, San Luis de Quillota, Deportes La Serena, Colo Colo, Palestino, Jaguares de Chiapas, Pumas UNAM, Deportes Melipilla, Deportes Valdivia, Colchagua, Union La Calera, Curico Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "3° Lugar en mundial sub 20. Campeón con Unión Española y Colo Colo"
+  },
+  {
+    "nombre": "Christian",
+    "apellido": "Vilches",
+    "nombreCompleto": "Christian Vilches",
+    "posicion": "DEF",
+    "clubes": "Deportes Quilicura, Palestino, Union La Calera, Audax Italiano, Colo Colo, Atletico Paranaense, Universidad de Chile, Magallanes",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensor, campeon con Universidad de Chile y Colo Colo"
+  },
+  {
+    "nombre": "Gonzalo",
+    "apellido": "Villagra",
+    "nombreCompleto": "Gonzalo Villagra",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica, Santiago Morning, Union Española, Universidad de Concepcion, Palestino, Deportes Antofagasta",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Volante, campeon con Union Española"
+  },
+  {
+    "nombre": "Manuel",
+    "apellido": "Villalobos",
+    "nombreCompleto": "Manuel Villalobos",
+    "posicion": "DEL",
+    "clubes": "Colo Colo, Fernandez Vial, O'Higgins, Deportes Talcahuano, Deportes Iquique, SC Dragoes Sandinenses, Deportes Arica, Deportes Copiapo, Ñublense, Universidad de Chile, Huachipato, Santiago Wanderers",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Campeon con Colo Colo, Universidad de Chile y Huachipato"
+  },
+  {
+    "nombre": "Moises",
+    "apellido": "Villarroel",
+    "nombreCompleto": "Moises Villarroel",
+    "posicion": "MED",
+    "clubes": "Santiago Wanderers, Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Wanderers en 2001 y con Colo Colo en 2006-2008"
+  },
+  {
+    "nombre": "Oscar",
+    "apellido": "Wirth",
+    "nombreCompleto": "Oscar Wirth",
+    "posicion": "POR",
+    "clubes": "Universidad Catolica, Colo Colo, Cobreloa, Everton de Viña del Mar, Universidad de Chile, Rot-Weib Oberhausen, Real Valladolid, Independiente de Medellin, Deportes La Serena, Deportes Concepcion, Alianza Lima",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Portero de los anos 70-80"
+  },
+  {
+    "nombre": "Patricio",
+    "apellido": "Yanez",
+    "nombreCompleto": "Patricio Yanez",
+    "posicion": "DEL",
+    "clubes": "San Luis de Quillota, Real Valladolid, Real Zaragoza, Real Betis, Universidad de Chile, Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Colo Colo en la Copa Libertadores 1991"
+  },
+  {
+    "nombre": "Ivan",
+    "apellido": "Zamorano",
+    "nombreCompleto": "Ivan Zamorano",
+    "posicion": "DEL",
+    "clubes": "Cobresal, Cobreandino, Bologna, St. Gallen, Sevilla, Real Madrid, Inter de Milan, America, Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "El gran capitan. Formó la dupla SA-ZA"
+  },
+  {
+    "nombre": "Mauricio",
+    "apellido": "Zenteno",
+    "nombreCompleto": "Mauricio Zenteno",
+    "posicion": "DEF",
+    "clubes": "Universidad Catolica, Huachipato, Deportes La Serena, Deportes Iquique",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Campeón con Universidad Catolica"
+  },
+  {
+    "nombre": "Alonzo",
+    "apellido": "Zuniga",
+    "nombreCompleto": "Alonzo Zuniga",
+    "posicion": "DEF",
+    "clubes": "Colo Colo, Santiago Wanderers, Deportes Puerto Montt, Fenix, Deportes Concepcion, Vaduz, Universidad de Chile, Deportes Antofagasta, Cobreloa, Santiago Morning, Union Temuco, San Antonio Unido",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Campeón con Colo Colo, Santiago Wanderers y Vaduz (Liechtenstein)"
   },
   {
     "nombre": "Claudio",
     "apellido": "Borghi",
     "nombreCompleto": "Claudio Borghi",
-    "posicion": "DEL",
-    "clubes": "Argentinos Juniors, Milan, Como, Neuchâtel Xamax, River Plate, Flamengo, Independiente, Unión de Santa Fe, Huracán, Colo Colo, Platense, Correcaminos, O'Higgins, Audax Italiano, Santiago Wanderers",
+    "posicion": "MED",
+    "clubes": "Argentinos Juniors, Milan, Como, Neuchatel Xamax, River Plate, Flamengo, Independiente, Union de Santa Fe, Huracan, Colo Colo, Platense, Correcaminos, O'Higgins, Audax Italiano, Santiago Wanderers",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Campeón con Colo Colo en 1992. Como DT campeón con Colo Colo en 2006"
+    "detalles": "Volante, Campeon con Colo Colo en 1992. Selección mundial 1986"
   },
   {
-    "nombre": "Darío",
+    "nombre": "Dario",
     "apellido": "Botinelli",
-    "nombreCompleto": "Darío Botinelli",
+    "nombreCompleto": "Dario Botinelli",
     "posicion": "MED",
-    "clubes": "Universidad Católica, Universidad de Chile",
+    "clubes": "San Lorenzo, Racing Club, Universidad Catolica, Atlas, Flamengo, Coritiba, Toluca, Gimnasia y Esgrima La Plata, America de Cali, Audax Italiano, Union (arg), Almagro",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad Católica"
+    "detalles": "Volante, Campeon con Universidad Catolica 2010"
   },
   {
     "nombre": "Claudio",
@@ -337,57 +1277,57 @@
     "clubes": "Colo Colo, Real Sociedad, Barcelona, Manchester City, Betis",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Portero, campeón con Colo Colo en 2006 y 2007"
+    "detalles": "Portero, Colo Colo Primera División de Chile 2006-A, Real Sociedad Segunda División de España 2009-10, Barcelona Primera División de España 2014-15, Barcelona Copa del Rey 2014-15, Barcelona Primera División de España 2015-16, Barcelona Copa del Rey 2015-16, Barcelona Supercopa de España 2016, Manchester City Copa de la Liga de Inglaterra 2017-18, Manchester City Premier League 2017-18, Manchester City Community Shield 2018, Manchester City Copa de la Liga de Inglaterra 2018-19, Manchester City Premier League 2018-19, Manchester City FA Cup 2018-19, Manchester City Community Shield 2019, Manchester City Copa de la Liga de Inglaterra 2019-20, Real Betis Copa del Rey 2021-22, "
   },
   {
     "nombre": "Hugo",
     "apellido": "Brizuela",
     "nombreCompleto": "Hugo Brizuela",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
+    "clubes": "O'Higgins, Union Española, O'Higgins, Audax Italiano, Argentinos Juniors, Universidad Catolica, Chacarita Juniors, Pachuca, Leon, Barcelona, Audax Italiano, O'Higgins",
     "campeonNacional": false,
-    "seleccionNacional": true,
-    "detalles": "Delantero paraguayo, 22 partidos y 3 goles con Paraguay, Mundial 1998 y Copa América 1997."
+    "seleccionNacional": false,
+    "detalles": "Delantero, Torneo de Invierno Pachuca 2001, Primera División Sol de América 1991 y Copa America 1997."
   },
   {
-    "nombre": "José María",
+    "nombre": "Jose Maria",
     "apellido": "Buljubasich",
-    "nombreCompleto": "José María Buljubasich",
+    "nombreCompleto": "Jose Maria Buljubasich",
     "posicion": "POR",
-    "clubes": "Universidad Católica, O'Higgins, Universidad de Chile",
+    "clubes": "Rosario Central, Tenerife, Lleida, Rosario Central, Real Oviedo, Rosario Central, Los Andes, Morelia, River Plate, Union Española, Universidad Catolica, Olimpia",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Portero, campeón con Universidad Católica"
+    "detalles": "Portero, Universidad Católica Primera División 2010,  Copa Chile 2011,  Copa Chile 2011,  Primera División 2016-C,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,   ,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,   ,   ,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,   ,   ,   ,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021"
   },
   {
     "nombre": "Salvador",
-    "apellido": "Cabañas",
-    "nombreCompleto": "Salvador Cabañas",
+    "apellido": "Cabanas",
+    "nombreCompleto": "Salvador Cabanas",
     "posicion": "DEL",
-    "clubes": "Audax Italiano, Necaxa, América",
+    "clubes": "12 de Octubre, Guarani, Audax Italiano, Jaguares de Chiapas, Tigres, America",
     "campeonNacional": false,
-    "seleccionNacional": true,
-    "detalles": "Delantero paraguayo, 44 partidos y 10 goles con Paraguay, Copa América 2007 y 1997. Goleador histórico, ícono de la Albirroja."
+    "seleccionNacional": false,
+    "detalles": "Delantero paraguayo, America 2008, 12 de octubre tercera división 2012"
   },
   {
     "nombre": "Mario",
-    "apellido": "Cáceres",
-    "nombreCompleto": "Mario Cáceres",
+    "apellido": "Caceres",
+    "nombreCompleto": "Mario Caceres",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
+    "clubes": "Colo Colo, Ñublense, Everton de Viña del Mar, Sporting de Lisboa, Colo Colo, Universidad de Concepcion, Lobos de la BUAP, Aris Salonica, Colo Colo, PAS Giannina, Union Española, St. Gallen, San Luis de Quillota, Audax Italiano, Everton de Viña del Mar, Deportes Temuco",
+    "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero de los años 90"
+    "detalles": "Delantero, campeon con Colo Colo 1998; 2002 y 2006"
   },
   {
     "nombre": "Pablo",
     "apellido": "Calandria",
     "nombreCompleto": "Pablo Calandria",
     "posicion": "DEL",
-    "clubes": "Universidad Católica, O'Higgins",
-    "campeonNacional": false,
+    "clubes": "Huracan, Olympique de Marsella, Malaga, Leganes, Sporting de Gijon, Hercules, Albacete, Gimnasia y Esgrima de Jujuy, Atletico Tucuman, Santiago Morning, Universidad Catolica, Santiago Wanderers, O'Higgins",
+    "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero argentino"
+    "detalles": "Delantero;Universidad Católica Copa Chile 2011; O'Higgins 2013"
   },
   {
     "nombre": "Carlos",
@@ -397,1496 +1337,496 @@
     "clubes": "Universidad de Chile",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Delantero histórico, campeón con Universidad de Chile en los años 60"
+    "detalles": "Delantero,  Universidad de Chile 1959; 1962; 1964; 1965; 1967; 1969"
   },
   {
-    "nombre": "Matías",
+    "nombre": "Matias",
     "apellido": "Campos Toro",
-    "nombreCompleto": "Matías Campos Toro",
+    "nombreCompleto": "Matias Campos Toro",
     "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "clubes": "Audax Italiano, Udinese, Universidad Catolica, Siena, Hercules, Granada, Union Española, Arsenal de Sarandi, Universidad de Chile, Santiago Wanderers",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Santiago Wanderers"
   },
   {
     "nombre": "Gustavo",
     "apellido": "Canales",
     "nombreCompleto": "Gustavo Canales",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile, Universidad Católica",
+    "clubes": "General Roca, Cipolletti, Aldosivi, Guillermo Brown, Deportes La Serena, Once Caldas, Union Española, River Plate, Universidad de Chile, Dalian Aerbin, Arsenal de Sarandi, Botafogo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero argentino, Cipolletti Torneo Argentino B 2006-07, Universidad de Chile Primera División 2011-A, Universidad de Chile Primera División 2011-A,  Primera División 2011-C, Universidad de Chile Primera División 2011-A,  Primera División 2011-C, Arsenal de Sarandí Supercopa Argentina 2012, Universidad de Chile Primera División 2011-A,  Primera División 2011-C, Arsenal de Sarandí Supercopa Argentina 2012, Unión Española Primera División 2013-T, Universidad de Chile Primera División 2011-A,  Primera División 2011-C, Arsenal de Sarandí Supercopa Argentina 2012, Unión Española Primera División 2013-T,  Supercopa de Chile 2013, Universidad de Chile Primera División 2011-A,  Primera División 2011-C, Arsenal de Sarandí Supercopa Argentina 2012, Unión Española Primera División 2013-T,  Supercopa de Chile 2013, Universidad de Chile Primera División 2014-A, Universidad de Chile Primera División 2011-A,  Primera División 2011-C, Arsenal de Sarandí Supercopa Argentina 2012, Unión Española Primera División 2013-T,  Supercopa de Chile 2013, Universidad de Chile Primera División 2014-A,  Supercopa de Chile 2015, Universidad de Chile Primera División 2011-A,  Primera División 2011-C, Arsenal de Sarandí Supercopa Argentina 2012, Unión Española Primera División 2013-T,  Supercopa de Chile 2013, Universidad de Chile Primera División 2014-A,  Supercopa de Chile 2015,  Copa Chile 2015, "
+  },
+  {
+    "nombre": "Victor",
+    "apellido": "Cancino",
+    "nombreCompleto": "Victor Cancino",
+    "posicion": "MED",
+    "clubes": "Real Valdivia, Deportes Puerto Montt, Deportes Concepcion, Santiago Wanderers, Universidad de Chile, Coquimbo Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, Universidad de Chile 2004"
+  },
+  {
+    "nombre": "Cristian",
+    "apellido": "Canio",
+    "nombreCompleto": "Cristian Canio",
+    "posicion": "DEL",
+    "clubes": "Deportes Temuco, Ñublense, Universidad de Chile, O'Higgins, Atlante, Cobreloa, Everton de Viña del Mar, San Martin de Tucuman, Audax Italiano, Colo Colo, Deportes Antofagasta, Coquimbo Unido, Deportes Valdivia",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero argentino, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Víctor",
-    "apellido": "Cancino",
-    "nombreCompleto": "Víctor Cancino",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Cristián",
-    "apellido": "Canío",
-    "nombreCompleto": "Cristián Canío",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero de los años 90"
+    "detalles": "Delantero, Everton 2008"
   },
   {
     "nombre": "Ever",
     "apellido": "Cantero",
     "nombreCompleto": "Ever Cantero",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
+    "clubes": "River Plate, Cerro Porteño, General Caballero, Deportes Puerto Montt, Palestino, Ñublense, Cobreloa, Santiago Morning, Bolivar, Cobresal, Guaireña FC",
+    "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero de los años 80"
+    "detalles": "Delantero, cobresal 2015"
   },
   {
-    "nombre": "Hernán",
+    "nombre": "Hernan",
     "apellido": "Caputto",
-    "nombreCompleto": "Hernán Caputto",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
+    "nombreCompleto": "Hernan Caputto",
+    "posicion": "POR",
+    "clubes": "Platense, Tigre, Provincial Osorno, Union Española, Magallanes, Deportes Puerto Montt, PSM Makassar, Palestino, Union San Felipe, Universidad de Chile, Huachipato",
+    "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Defensor de los años 90"
+    "detalles": "Portero, Universidad de Chile 2009"
   },
   {
     "nombre": "Carlos",
     "apellido": "Carmona",
     "nombreCompleto": "Carlos Carmona",
     "posicion": "MED",
-    "clubes": "Coquimbo Unido, O'Higgins, Atalanta",
+    "clubes": "Coquimbo Unido, O'Higgins, Reggina, Atalanta, Atlanta United, Colo Colo",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Volante, Colo Colo Copa chile 2019"
+  },
+  {
+    "nombre": "Angel",
+    "apellido": "Carreño",
+    "nombreCompleto": "Angel Carreño",
+    "posicion": "MED",
+    "clubes": "Palestino, Deportes Puerto Montt, Palestino, Colo Colo, Orebro, Palestino, Deportes La Serena, Ñublense, Deportes La Serena, Universidad Catolica, Deportes La Serena, Union La Calera, Deportes La Serena",
     "campeonNacional": false,
     "seleccionNacional": false,
     "detalles": "Volante"
   },
   {
-    "nombre": "Ángel",
-    "apellido": "Carreño",
-    "nombreCompleto": "Ángel Carreño",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Luis Hernán",
+    "nombre": "Luis Hernan",
     "apellido": "Carvallo",
-    "nombreCompleto": "Luis Hernán Carvallo",
+    "nombreCompleto": "Luis Hernan Carvallo",
     "posicion": "POR",
-    "clubes": "Universidad de Chile",
+    "clubes": "Universidad Catolica, Universidad de Chile",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante defensivo, campeón con Universidad Católica en 1966"
+    "detalles": "Volante defensivo, campeon con Universidad Catolica en 1966"
   },
   {
-    "nombre": "Cristián",
-    "apellido": "Castañeda",
-    "nombreCompleto": "Cristián Castañeda",
+    "nombre": "Cristian",
+    "apellido": "Castaneda",
+    "nombreCompleto": "Cristian Castaneda",
     "posicion": "DEF",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": true,
-    "detalles": "Defensor lateral, 24 partidos con La Roja, Mundial 1998. Hermano de Víctor Hugo Castañeda."
-  },
-  {
-    "nombre": "Víctor Hugo",
-    "apellido": "Castañeda",
-    "nombreCompleto": "Víctor Hugo Castañeda",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile, Colo Colo",
+    "clubes": "General Velasquez, Palestino, Universidad de Chile, Everton de Viña del Mar, San Marcos de Arica",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con U de Chile y Colo Colo. Hermano de Cristián Castañeda, también estuvo en selección chilena."
+    "detalles": "Defensor lateral, 24 partidos con La Roja, Mundial 1998. Universidad de Chile Primera División 1994,  Primera División 1995,  Copa Chile 1998,  Primera División 1999,  Copa Chile 2000,  Primera División 2000, Everton Primera B 2003, Hermano de Victor Hugo Castaneda."
+  },
+  {
+    "nombre": "Victor Hugo",
+    "apellido": "Castaneda",
+    "nombreCompleto": "Victor Hugo Castaneda",
+    "posicion": "DEF",
+    "clubes": "Palestino, Deportes Concepcion, Universidad de Chile",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con U de Chile1994 y 1995. Hermano de Cristian Castaneda, tambien estuvo en seleccion chilena."
   },
   {
     "nombre": "Sandrino",
     "apellido": "Castec",
     "nombreCompleto": "Sandrino Castec",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
+    "clubes": "Universidad de Chile, Audax Italiano, Cruz Azul, Cobresal, Deportes Valdivia",
     "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero de los años 80"
+    "seleccionNacional": true,
+    "detalles": "Delantero, Universidad de Chile Copa Chile 1979"
   },
   {
-    "nombre": "Nicolás",
+    "nombre": "Nicolas",
     "apellido": "Castillo",
-    "nombreCompleto": "Nicolás Castillo",
+    "nombreCompleto": "Nicolas Castillo",
     "posicion": "DEL",
-    "clubes": "Universidad Católica, Universidad de Chile",
+    "clubes": "Universidad Catolica, Brujas, F.S.V. Maguncia 05, Frosinone Calcio, Universidad Nacional, Benfica, America, Esporte Clube Juventude, Necaxa, Santiago City",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Universidad Católica"
+    "seleccionNacional": true,
+    "detalles": "Delantero, C.D. Universidad Católica Copa Chile 2011, Club Brujas Copa de Bélgica 2015, C. D. Universidad Católica Primera División 2016-C,  Supercopa de Chile 2016,  Liga de Primera 2016-A, Benfica Primeira Liga 2019, América Copa México 2019,  Campeón de Campeones 2019, "
   },
   {
     "nombre": "Osvaldo",
     "apellido": "Castro",
-    "nombreCompleto": "Osvaldo Castro",
+    "nombreCompleto": "Osvaldo Castro Pelayo",
     "posicion": "DEL",
-    "clubes": "Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero peruano, campeón con Colo Colo"
+    "clubes": "Union La Calera, Deportes Concepcion, America, Jalisco, Universidad Catolica, Deportivo Neza, Atletico Potosino, Pumas UNAM",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Delantero"
   },
   {
     "nombre": "Carlos",
     "apellido": "Caszely",
     "nombreCompleto": "Carlos Caszely",
     "posicion": "DEL",
-    "clubes": "Colo Colo, Levante, Espanyol, Barcelona SC",
+    "clubes": "Colo Colo, Levante, Espanyol, Barcelona de Guayaquil",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Ídolo de Colo Colo, campeón en 1970, 1972, 1979, 1981, 1983"
+    "detalles": "Colo Colo, campeon en 1970, 1972, 1979, 1981, 1983"
   },
   {
     "nombre": "Roberto",
     "apellido": "Cereceda",
     "nombreCompleto": "Roberto Cereceda",
     "posicion": "DEF",
-    "clubes": "Universidad Católica, Colo Colo",
+    "clubes": "Audax Italiano, Colo Colo, Universidad Catolica, Universidad de Chile, Figueirense, Universidad de Chile, Union La Calera, Palestino, O'Higgins, Audax Italiano",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con Universidad Católica y Colo Colo"
+    "seleccionNacional": true,
+    "detalles": "Defensor, Colo Colo Primera División 2007-C,  Primera División 2008-C,  Primera División 2009-C, C.D. Universidad Católica Copa Chile 2011, Universidad de Chile Primera División 2012-A,  Copa Chile 2012-13,  Primera División 2014-A,  Copa Chile 2015, "
   },
   {
     "nombre": "Luis",
-    "apellido": "Chavarría",
-    "nombreCompleto": "Luis Chavarría",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile",
+    "apellido": "Chavarria",
+    "nombreCompleto": "Luis Chavarria",
+    "posicion": "MED",
+    "clubes": "Malleco Unido, Fernandez Vial, Deportes Concepcion, Universidad de Chile, Huachipato, Deportes Concepcion, Fernandez Vial",
     "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "seleccionNacional": true,
+    "detalles": "Volante defensivo"
   },
   {
     "nombre": "Pablo",
     "apellido": "Contreras",
     "nombreCompleto": "Pablo Contreras",
     "posicion": "DEF",
-    "clubes": "Colo Colo, Monaco, Osasuna, Sporting, PAOK, Olympiacos",
+    "clubes": "Colo Colo, Monaco, Racing Club, Celta de Vigo, Osasuna, Sporting de Lisboa, Sporting Braga, PAOK, Olympiacos, Melbourne Victory",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Defensor, campeón con Colo Colo"
+    "detalles": "Defensor, Colo-Colo Primera División 1997,  Primera División 1998, AS Monaco Ligue 1 1999-00,  Supercopa de Francia 2000, Sporting Lisboa Supercopa de Portugal 2002, Olympiacos Fútbol Club Copa de Grecia 2012-13,  Super League 2012-13, "
   },
   {
     "nombre": "Fernando",
     "apellido": "Cornejo",
-    "nombreCompleto": "Fernando Cornejo",
+    "nombreCompleto": "Fernando Andrés Cornejo Jiménez",
     "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "clubes": "O'Higgins, Cobreloa, Universidad Catolica",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
+    "seleccionNacional": true,
+    "detalles": "Volante, Cobreloa Primera División 1992,  Primera División 2003-A,  Primera División 2003-C,  Primera División 2004-C"
   },
   {
-    "nombre": "Darío",
+    "nombre": "Dario",
     "apellido": "Conca",
-    "nombreCompleto": "Darío Conca",
+    "nombreCompleto": "Dario Conca",
     "posicion": "MED",
-    "clubes": "Universidad Católica, Universidad de Chile, River Plate, Guangzhou Evergrande",
+    "clubes": "River Plate, Universidad Catolica, Rosario Central, Vasco da Gama, Fluminense, Guangzhou Evergrande, Shanghai, Flamengo",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Volante argentino, campeón con Universidad Católica"
+    "detalles": "Volante argentino, campeon con Universidad Catolica 2005"
   },
   {
     "nombre": "Marcelo",
     "apellido": "Corrales",
     "nombreCompleto": "Marcelo Corrales",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
+    "clubes": "Palestino, Universidad Catolica, Deportes Temuco, Provincial Osorno, Santiago Wanderers, Union San Felipe, Al-Shabab, Universidad de Chile, Deportes Puerto Montt, Coquimbo Unido, Deportes Iquique, San Antonio Unido",
     "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Delantero de los años 90"
+    "detalles": "Delantero, primera B y copa chile con San  Felipe"
   },
   {
     "nombre": "Humberto",
     "apellido": "Cruz",
-    "nombreCompleto": "Humberto Cruz",
+    "nombreCompleto": "Humberto Carlos Nelson Cruz Silva",
     "posicion": "DEF",
-    "clubes": "O'Higgins, Colo Colo",
+    "clubes": "Santiago Morning, Colo Colo, O'Higgins, Ñublense, Ferroviarios",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con O'Higgins en 1955"
+    "seleccionNacional": true,
+    "detalles": "Defensor, campeon con Colo Colo 1963 y 1970"
   },
   {
     "nombre": "Ricardo",
     "apellido": "Dabrowski",
     "nombreCompleto": "Ricardo Dabrowski",
     "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "clubes": "Temperley, Huracan, Toluca, Temperley, Colo Colo",
     "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Hernán",
-    "apellido": "Díaz",
-    "nombreCompleto": "Hernán Díaz",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 80"
+    "detalles": "Campeón con Colo Colo de la Libertadores y maximo goleador del equipo, segundo de la copa. Tricampeón con Colo Colo."
   },
   {
     "nombre": "Marcelo",
-    "apellido": "Díaz",
-    "nombreCompleto": "Marcelo Díaz",
+    "apellido": "Diaz",
+    "nombreCompleto": "Marcelo Diaz",
     "posicion": "MED",
-    "clubes": "Universidad de Chile, Basel",
+    "clubes": "Universidad de Chile, Basel, Deportes La Serena, Hamburger SV, Celta de Vigo, Pumas UNAM, Racing Club, Libertad de Paraguay, Audax Italiano",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Matías",
-    "apellido": "Donoso",
-    "nombreCompleto": "Matías Donoso",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero"
+    "detalles": "Volante, campeon con Universidad de Chile, Pieza clave Generación Dorada, 2x campeón América (2015-2016)"
   },
   {
     "nombre": "Hugo",
     "apellido": "Droguett",
     "nombreCompleto": "Hugo Droguett",
     "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "clubes": "Universidad de Chile, Universidad Catolica, Deportes Temuco, Universidad de Concepcion, Tecos, Morelia, Cruz Azul, Jeonbuk, Deportivo Cali, Cobreloa, Jeju United, O'Higgins, Deportes Antofagasta",
     "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Volante de los años 90"
+    "seleccionNacional": true,
+    "detalles": "Volante de los anos 90"
   },
   {
     "nombre": "Rodolfo",
-    "apellido": "Dubó",
-    "nombreCompleto": "Rodolfo Dubó",
+    "apellido": "Dubo",
+    "nombreCompleto": "Rodolfo Dubo",
     "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "clubes": "Deportes Ovalle, Palestino, Universidad de Chile, Palestino, Deportes Lozapenco",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Jugo tres copas libertadores con Palestino y el mundial de 1982. Jugador con mas partidos oficiales con Palestino."
   },
   {
     "nombre": "Marcelo",
     "apellido": "Espina",
     "nombreCompleto": "Marcelo Espina",
     "posicion": "MED",
-    "clubes": "Universidad de Chile, Colo Colo",
+    "clubes": "Platense, Irapuato, Atlante, Lanus, Colo Colo, Racing de Santander",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile y Colo Colo"
+    "detalles": "Argentino nacionalizado. Jugó por selección argentina (no chilena). 5 títulos con Colo Colo"
   },
   {
-    "nombre": "Fabián",
+    "nombre": "Fabian",
     "apellido": "Estay",
-    "nombreCompleto": "Fabián Estay",
+    "nombreCompleto": "Fabian Estay",
     "posicion": "MED",
-    "clubes": "Universidad de Chile, Toluca",
+    "clubes": "Universidad Catolica, St. Gallen, Universidad de Chile, Olympiacos, Colo Colo, Toluca, America, Atlante, Santos Laguna, America de Cali, Palestino",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Universidad Catolica. Considerado idolo del Toluca."
   },
   {
-    "nombre": "Raúl",
-    "apellido": "Estévez",
-    "nombreCompleto": "Raúl Estévez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "nombre": "Raul",
+    "apellido": "Estevez",
+    "nombreCompleto": "Raul Estevez",
+    "posicion": "DEL",
+    "clubes": "San Lorenzo, Boca Juniors, Botafogo, Colon de Santa Fe, Racing Club, Academica de Coimbra, Universidad de Chile, Union Española, Boca Unidos, Barracas Central",
     "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "detalles": "Pipa. Ganó libertadores con Boca."
   },
   {
     "nombre": "Marco",
     "apellido": "Estrada",
     "nombreCompleto": "Marco Estrada",
     "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "clubes": "Everton de Viña del Mar, Universidad de Chile, Montpellier, Al-Wahda, San Luis de Quillota",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile"
+    "detalles": "Volante, campeon con Universidad de Chile, Mundialista 2010, campeón Ligue 1 con Montpellier (2012)"
   },
   {
-    "nombre": "Óscar",
+    "nombre": "Oscar",
     "apellido": "Fabbiani",
-    "nombreCompleto": "Óscar Fabbiani",
+    "nombreCompleto": "Oscar Fabbiani",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero argentino de los años 80"
-  },
-  {
-    "nombre": "Rubén",
-    "apellido": "Farfán",
-    "nombreCompleto": "Rubén Farfán",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Matías",
-    "apellido": "Fernández",
-    "nombreCompleto": "Matías Fernández",
-    "posicion": "MED",
-    "clubes": "Colo Colo, Villarreal, Sporting Portugal, Fiorentina, Milan, Necaxa, Junior, Deportes La Serena",
+    "clubes": "Estudiantes de Buenos Aires, Union San Felipe, Palestino, Tampa Bay Rowdies, Everton de Viña del Mar, Deportes Iquique, Coquimbo Unido, Cape Town Spurs",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con Colo Colo en 2006 y 2007"
+    "detalles": "Argentino naturalizado chileno, tricampeón goleador 1976-1978, ídolo de Palestino. Era de los 70s."
+  },
+  {
+    "nombre": "Matias",
+    "apellido": "Fernandez",
+    "nombreCompleto": "Matias Fernandez",
+    "posicion": "MED",
+    "clubes": "Colo Colo, Villarreal, Sporting de Lisboa, Fiorentina, Milan, Necaxa, Junior de Barranquilla, Deportes La Serena",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Volante, campeon con Colo Colo en 2006 y 2007, campeón América 2015 "
   },
   {
     "nombre": "Gonzalo",
     "apellido": "Fierro",
     "nombreCompleto": "Gonzalo Fierro",
     "posicion": "MED",
-    "clubes": "Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Colo Colo"
-  },
-  {
-    "nombre": "Elías",
-    "apellido": "Figueroa",
-    "nombreCompleto": "Elías Figueroa",
-    "posicion": "DEF",
-    "clubes": "Santiago Wanderers, Peñarol, Internacional, Palestino",
+    "clubes": "Colo Colo, Flamengo, Deportes Antofagasta, Deportes Colina",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "3 veces mejor jugador de América. Campeón en Uruguay, Brasil y Chile con Palestino en 1978"
+    "detalles": "Volante, campeon con Colo Colo, el joven pistolero"
+  },
+  {
+    "nombre": "Elias",
+    "apellido": "Figueroa",
+    "nombreCompleto": "Elias Figueroa",
+    "posicion": "DEF",
+    "clubes": "Union La Calera, Santiago Wanderers, Penarol, Internacional de Porto Alegre, Palestino, Fort Lauderdale Strikers, Colo Colo",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "3 veces mejor jugador de America. Campeon en Uruguay, Brasil y Chile con Palestino en 1978"
   },
   {
     "nombre": "Alberto",
     "apellido": "Fouillioux",
     "nombreCompleto": "Alberto Fouillioux",
     "posicion": "DEL",
-    "clubes": "Universidad Católica, Huachipato, Unión Española, Lille",
+    "clubes": "Universidad Catolica, Huachipato, Union Española, Lille",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Ídolo de la UC, campeón en 1961 y 1966"
+    "detalles": "Idolo de la UC, campeon en 1961 y 1966, Campeón en Francia con el Lille. Tercer lugar del mundial con Chile en el 62"
   },
   {
-    "nombre": "José Pedro",
+    "nombre": "Jose Pedro",
     "apellido": "Fuenzalida",
-    "nombreCompleto": "José Pedro Fuenzalida",
+    "nombreCompleto": "Jose Pedro Fuenzalida",
     "posicion": "MED",
-    "clubes": "Universidad Católica, Colo Colo, Boca Juniors",
+    "clubes": "Universidad Catolica, Colo Colo, O'Higgins, Boca Juniors",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad Católica y Colo Colo"
+    "detalles": "Volante, campeon con Universidad Catolica, Colo Colo y Boca. 2x campeón América (2015-2016)"
   },
   {
     "nombre": "Patricio",
     "apellido": "Galaz",
     "nombreCompleto": "Patricio Galaz",
     "posicion": "DEL",
-    "clubes": "Universidad Católica, Regional Atacama, Antofagasta, Cobreloa, Coquimbo Unido, Palestino, Universidad de Chile, Ñublense, Atlante",
+    "clubes": "Universidad Catolica, Regional Atacama, Deportes Antofagasta, Cobreloa, Coquimbo Unido, Palestino, Universidad de Chile, Ñublense, Atlante",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Campeón con Cobreloa en 2003. Máximo goleador mundial en 2004"
+    "seleccionNacional": true,
+    "detalles": "Campeon con Cobreloa en 2003 y 2004 y Catolica en 1997. Maximo goleador mundial en 2004"
   },
   {
     "nombre": "Mario",
     "apellido": "Galindo",
     "nombreCompleto": "Mario Galindo",
     "posicion": "DEF",
-    "clubes": "Colo Colo, Everton, Santiago Wanderers",
+    "clubes": "Colo Colo, Everton de Viña del Mar, Santiago Wanderers",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Lateral derecho, campeón con Colo Colo en 1972, 1979 y 1981"
-  },
-  {
-    "nombre": "Paulo",
-    "apellido": "Garcés",
-    "nombreCompleto": "Paulo Garcés",
-    "posicion": "POR",
-    "clubes": "Universidad Católica, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Portero, campeón con Universidad Católica y Colo Colo"
+    "detalles": "Lateral derecho, campeon con Colo Colo en 1972, 1979 y 1981 y con Everton en 1976"
   },
   {
     "nombre": "Carlos",
     "apellido": "Garrido",
     "nombreCompleto": "Carlos Garrido",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "posicion": "DEF",
+    "clubes": "Rangers de Talca, Universidad de Chile, Audax Italiano",
     "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "detalles": "Metió un gol por la U de Chile"
   },
   {
     "nombre": "Sergio",
     "apellido": "Gioino",
     "nombreCompleto": "Sergio Gioino",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "posicion": "DEL",
+    "clubes": "San Jorge, Provincial Osorno, Coquimbo Unido, Deportes Iquique, Huachipato, Universidad Catolica, Universidad de Chile, Palmeiras, Union Española, Gama",
     "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "seleccionNacional": true,
+    "detalles": "Campeón con U de Chile en 2004. Argentino nacionalizado chileno."
   },
   {
-    "nombre": "Hernán",
+    "nombre": "Hernan",
     "apellido": "Godoy",
-    "nombreCompleto": "Hernán Godoy",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
+    "nombreCompleto": "Hernan Godoy",
+    "posicion": "DEL",
+    "clubes": "Deportes La Serena, Santiago Wanderers, Palestino, Comunicaciones, Motagua, Audax Italiano, Alianza FC, Magallanes, Trasandino, Union Magdalena",
     "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "detalles": "Ganó la liga de Guatemala con Comunicaciones y Motagua. Maximo goleador de la liga de Guatemala en la temporada 1968-69. El Clavito."
   },
   {
     "nombre": "Rodrigo",
     "apellido": "Goldberg",
     "nombreCompleto": "Rodrigo Goldberg",
     "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
+    "clubes": "Universidad de Chile, Santiago Wanderers, Maccabi Tel Aviv, Universidad Catolica, Santiago Morning",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Campeon con U de Chile en 1994 y 1995. Campeon liga de Israel con el Tel Aviv en la temporada 2002-2003"
   },
   {
-    "nombre": "Sebastián",
-    "apellido": "González",
-    "nombreCompleto": "Sebastián González",
+    "nombre": "Sebastian",
+    "apellido": "Gonzalez",
+    "nombreCompleto": "Sebastian Gonzalez",
     "posicion": "DEL",
-    "clubes": "Universidad Católica, Colo Colo",
+    "clubes": "Colo Colo, Atlante, Tigres, Veracruz, Olimpo, Tecos, Leon, APOP Kinyras Peyias, Potros Neza, Merida FC, The Strongest, Caracas , Palestino, Deportes Temuco",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Colo Colo"
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon con Colo Colo en 1998 y campeon liga Bolivia con The Strongest. Tercer lugar Juegos Olimpicos con la Selección el 2000."
   },
   {
     "nombre": "Pedro",
-    "apellido": "González",
-    "nombreCompleto": "Pedro González",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "apellido": "Gonzalez",
+    "nombreCompleto": "Pedro Gonzalez",
+    "posicion": "DEL",
+    "clubes": "Deportes Valdivia, Union Española, Coquimbo Unido, Cobreloa, Universidad de Chile, Santiago Morning",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Campeon con U de Chile en 1999 y 2000. Heidi."
   },
   {
     "nombre": "Mark",
-    "apellido": "González",
-    "nombreCompleto": "Mark González",
+    "apellido": "Gonzalez",
+    "nombreCompleto": "Mark Gonzalez",
     "posicion": "MED",
-    "clubes": "Universidad Católica, Liverpool, Real Betis",
+    "clubes": "Real Sociedad, Universidad Catolica, Albacete, Liverpool, Real Betis, CSKA Moscu, Sport Recife, Colo Colo, Magallanes",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad Católica"
+    "detalles": "Volante, Campeon de la liga Rusa y Campeon Copa America 2016"
   },
   {
     "nombre": "Roberto",
-    "apellido": "Gutiérrez",
-    "nombreCompleto": "Roberto Gutiérrez",
+    "apellido": "Gutierrez",
+    "nombreCompleto": "Roberto Gutierrez",
     "posicion": "DEL",
-    "clubes": "Universidad Católica, Universidad de Chile",
+    "clubes": "Universidad Catolica, Deportes Melipilla, Cruz Azul Oaxaca, Tecos, Everton de Viña del Mar, Estudiantes Tecos, Colo Colo, Palestino, Atlante, Santiago Wanderers, O'Higgins, Ñublense, Cobreloa, Deportes Recoleta",
     "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Universidad Católica"
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon con Universidad Catolica en 2010 y 2016. Pajaro."
   },
   {
     "nombre": "Johnny",
     "apellido": "Herrera",
     "nombreCompleto": "Johnny Herrera",
     "posicion": "POR",
-    "clubes": "Universidad de Chile, Audax Italiano, Everton",
+    "clubes": "Universidad de Chile, Corinthians, Everton de Viña del Mar, Audax Italiano",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Portero, 8 campeonatos con U de Chile y 1 con Everton (2008)"
+    "detalles": "Portero, 8 campeonatos con U de Chile y 1 con Everton (2008). Campeon Copa Sudamericana. 2x campeón América (2015-2016)"
   },
   {
-    "nombre": "Héctor",
+    "nombre": "Hector",
     "apellido": "Hoffens",
-    "nombreCompleto": "Héctor Hoffens",
-    "posicion": "DEF",
+    "nombreCompleto": "Hector Hoffens",
+    "posicion": "DEL",
     "clubes": "Ferroviarios, Universidad de Chile, Audax Italiano",
-    "campeonNacional": true,
+    "campeonNacional": false,
     "seleccionNacional": false,
-    "detalles": "Campeón de Primera B con Universidad de Chile en 1989"
+    "detalles": "Campeon de Primera B con Universidad de Chile en 1989"
   },
   {
     "nombre": "Gonzalo",
     "apellido": "Jara",
     "nombreCompleto": "Gonzalo Jara",
     "posicion": "DEF",
-    "clubes": "Universidad de Chile, Colo Colo, West Bromwich, Brighton, Nottingham Forest, Mainz, Estudiantes",
+    "clubes": "Huachipato, Universidad de Chile, Colo Colo, West Bromwich, Brighton, Nottingham Forest, Mainz, Estudiantes de La Plata, Morelia, Mazatlan FC, Tijuana, Union La Calera, Coquimbo Unido",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Defensor, campeón con Colo Colo y Universidad de Chile"
-  },
-  {
-    "nombre": "José Luis",
-    "apellido": "Jérez",
-    "nombreCompleto": "José Luis Jérez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 80"
-  },
-  {
-    "nombre": "Luis",
-    "apellido": "Jiménez",
-    "nombreCompleto": "Luis Jiménez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile, Toluca, Inter de Milán",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Braulio",
-    "apellido": "Leal",
-    "nombreCompleto": "Braulio Leal",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Pablo",
-    "apellido": "Lenci",
-    "nombreCompleto": "Pablo Lenci",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Defensor de los años 90"
-  },
-  {
-    "nombre": "Mario",
-    "apellido": "Lepe",
-    "nombreCompleto": "Mario Lepe",
-    "posicion": "DEF",
-    "clubes": "Universidad Católica",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Ídolo de Universidad Católica, campeón en 1984, 1987 y Apertura 1997"
-  },
-  {
-    "nombre": "Juan Carlos",
-    "apellido": "Letelier",
-    "nombreCompleto": "Juan Carlos Letelier",
-    "posicion": "DEL",
-    "clubes": "Santiago Wanderers, Cobreloa, Deportes La Serena",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Cobreloa en 1982, 1985, 1988, 1992"
-  },
-  {
-    "nombre": "Sergio",
-    "apellido": "Livingstone",
-    "nombreCompleto": "Sergio Livingstone",
-    "posicion": "POR",
-    "clubes": "Universidad Católica, Santiago Wanderers",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Portero histórico, campeón con Universidad Católica"
-  },
-  {
-    "nombre": "Eduardo",
-    "apellido": "Lobos",
-    "nombreCompleto": "Eduardo Lobos",
-    "posicion": "POR",
-    "clubes": "Universidad Católica",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Portero"
-  },
-  {
-    "nombre": "Gustavo",
-    "apellido": "Lorenzetti",
-    "nombreCompleto": "Gustavo Lorenzetti",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Ricardo",
-    "apellido": "Lunari",
-    "nombreCompleto": "Ricardo Lunari",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Juan Carlos",
-    "apellido": "Maldonado",
-    "nombreCompleto": "Juan Carlos Maldonado",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Rodrigo",
-    "apellido": "Mannara",
-    "nombreCompleto": "Rodrigo Mannara",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Rubén",
-    "apellido": "Marcos",
-    "nombreCompleto": "Rubén Marcos",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante histórico, campeón con Universidad de Chile en los años 60"
-  },
-  {
-    "nombre": "Javier",
-    "apellido": "Margas",
-    "nombreCompleto": "Javier Margas",
-    "posicion": "DEF",
-    "clubes": "Universidad Católica, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Defensor, campeón con Universidad Católica y Colo Colo"
-  },
-  {
-    "nombre": "Fernando",
-    "apellido": "Martel",
-    "nombreCompleto": "Fernando Martel",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Hans",
-    "apellido": "Martínez",
-    "nombreCompleto": "Hans Martínez",
-    "posicion": "DEF",
-    "clubes": "Universidad Católica",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con Universidad Católica"
-  },
-  {
-    "nombre": "Rodrigo",
-    "apellido": "Meléndez",
-    "nombreCompleto": "Rodrigo Meléndez",
-    "posicion": "MED",
-    "clubes": "Cobreloa, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Cobreloa y Colo Colo"
-  },
-  {
-    "nombre": "Luis",
-    "apellido": "Mena",
-    "nombreCompleto": "Luis Mena",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "DT y ex jugador, campeón con Universidad de Chile como DT"
-  },
-  {
-    "nombre": "Gabriel",
-    "apellido": "Mendoza",
-    "nombreCompleto": "Gabriel Mendoza",
-    "posicion": "DEF",
-    "clubes": "Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con Colo Colo"
-  },
-  {
-    "nombre": "Fernando",
-    "apellido": "Meneses",
-    "nombreCompleto": "Fernando Meneses",
-    "posicion": "MED",
-    "clubes": "Universidad Católica",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad Católica"
-  },
-  {
-    "nombre": "Rodrigo",
-    "apellido": "Millar",
-    "nombreCompleto": "Rodrigo Millar",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile y Colo Colo"
-  },
-  {
-    "nombre": "Ezequiel",
-    "apellido": "Miralles",
-    "nombreCompleto": "Ezequiel Miralles",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero argentino"
-  },
-  {
-    "nombre": "Milovan",
-    "apellido": "Mirosevic",
-    "nombreCompleto": "Milovan Mirosevic",
-    "posicion": "MED",
-    "clubes": "Universidad Católica",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad Católica"
-  },
-  {
-    "nombre": "Leonardo",
-    "apellido": "Monje",
-    "nombreCompleto": "Leonardo Monje",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Cristián",
-    "apellido": "Montecinos",
-    "nombreCompleto": "Cristián Montecinos",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero de los años 90"
-  },
-  {
-    "nombre": "Mario",
-    "apellido": "Moreno",
-    "nombreCompleto": "Mario Moreno",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Daniel",
-    "apellido": "Morón",
-    "nombreCompleto": "Daniel Morón",
-    "posicion": "POR",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Portero de los años 80"
-  },
-  {
-    "nombre": "Rodolfo",
-    "apellido": "Moya",
-    "nombreCompleto": "Rodolfo Moya",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Cristián",
-    "apellido": "Muñoz",
-    "nombreCompleto": "Cristián Muñoz",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Luis",
-    "apellido": "Musrri",
-    "nombreCompleto": "Luis Musrri",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Reinaldo",
-    "apellido": "Navia",
-    "nombreCompleto": "Reinaldo Navia",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero"
-  },
-  {
-    "nombre": "Miguel Ángel",
-    "apellido": "Neira",
-    "nombreCompleto": "Miguel Ángel Neira",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Manuel",
-    "apellido": "Neira",
-    "nombreCompleto": "Manuel Neira",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Universidad de Chile y Colo Colo"
-  },
-  {
-    "nombre": "Juan",
-    "apellido": "Olivares",
-    "nombreCompleto": "Juan Olivares",
-    "posicion": "POR",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Portero de los años 70"
-  },
-  {
-    "nombre": "Fabián",
-    "apellido": "Orellana",
-    "nombreCompleto": "Fabián Orellana",
-    "posicion": "MED",
-    "clubes": "Universidad Católica, Udinese, Granada, Celta de Vigo, Valencia",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad Católica"
-  },
-  {
-    "nombre": "Jorge",
-    "apellido": "Ormeño",
-    "nombreCompleto": "Jorge Ormeño",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Raúl",
-    "apellido": "Ormeño",
-    "nombreCompleto": "Raúl Ormeño",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante histórico, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Carlos",
-    "apellido": "Ortega",
-    "nombreCompleto": "Carlos Ortega",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Mario",
-    "apellido": "Osbén",
-    "nombreCompleto": "Mario Osbén",
-    "posicion": "POR",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Portero de los años 80"
-  },
-  {
-    "nombre": "Esteban",
-    "apellido": "Paredes",
-    "nombreCompleto": "Esteban Paredes",
-    "posicion": "DEL",
-    "clubes": "Santiago Morning, Deportes Puerto Montt, Pachuca Juniors, Cobreloa, Colo Colo, Atlante, Querétaro, San Antonio Unido, Coquimbo Unido",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Máximo goleador histórico, 4 títulos con Colo Colo"
-  },
-  {
-    "nombre": "Manuel",
-    "apellido": "Pellegrini",
-    "nombreCompleto": "Manuel Pellegrini",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "DT famoso, como jugador no destacó"
-  },
-  {
-    "nombre": "Rodrigo",
-    "apellido": "Pérez",
-    "nombreCompleto": "Rodrigo Pérez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 80"
-  },
-  {
-    "nombre": "Luis",
-    "apellido": "Pérez",
-    "nombreCompleto": "Luis Pérez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Nicolás",
-    "apellido": "Peric",
-    "nombreCompleto": "Nicolás Peric",
-    "posicion": "POR",
-    "clubes": "Universidad de Chile, Argentinos Juniors",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Portero, campeón con Argentinos Juniors en 2010"
-  },
-  {
-    "nombre": "Mauricio",
-    "apellido": "Pinilla",
-    "nombreCompleto": "Mauricio Pinilla",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile, Chievo, Celta de Vigo, Sporting Portugal, Heart of Midlothian, Palermo, Cagliari, Atalanta, Genoa, Magallanes",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Delantero, campeón con Universidad de Chile en 2004"
-  },
-  {
-    "nombre": "David",
-    "apellido": "Pizarro",
-    "nombreCompleto": "David Pizarro",
-    "posicion": "MED",
-    "clubes": "Santiago Wanderers, Udinese, Inter de Milán, Roma, Manchester City, Fiorentina, Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile en 2000 y 2017"
-  },
-  {
-    "nombre": "Alberto",
-    "apellido": "Quintano",
-    "nombreCompleto": "Alberto Quintano",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor histórico, campeón con Universidad de Chile en los años 60"
-  },
-  {
-    "nombre": "Luis Ignacio",
-    "apellido": "Quinteros",
-    "nombreCompleto": "Luis Ignacio Quinteros",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Miguel",
-    "apellido": "Ramírez",
-    "nombreCompleto": "Miguel Ramírez",
-    "posicion": "DEF",
-    "clubes": "Universidad Católica, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Defensor, campeón con Universidad Católica y Colo Colo"
-  },
-  {
-    "nombre": "Carlos",
-    "apellido": "Reinoso",
-    "nombreCompleto": "Carlos Reinoso",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile, América",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Volante histórico, no campeón en Chile"
-  },
-  {
-    "nombre": "Gerardo",
-    "apellido": "Reinoso",
-    "nombreCompleto": "Gerardo Reinoso",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Volante de los años 80"
-  },
-  {
-    "nombre": "Pedro",
-    "apellido": "Reyes",
-    "nombreCompleto": "Pedro Reyes",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Defensor, campeón con Universidad de Chile y Colo Colo"
-  },
-  {
-    "nombre": "Fernando",
-    "apellido": "Riera",
-    "nombreCompleto": "Fernando Riera",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "DT histórico"
-  },
-  {
-    "nombre": "Diego",
-    "apellido": "Rivarola",
-    "nombreCompleto": "Diego Rivarola",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Universidad de Chile y Colo Colo"
-  },
-  {
-    "nombre": "Carlos",
-    "apellido": "Rivas",
-    "nombreCompleto": "Carlos Rivas",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Leonardo",
-    "apellido": "Rodríguez",
-    "nombreCompleto": "Leonardo Rodríguez",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Francisco",
-    "apellido": "Rojas",
-    "nombreCompleto": "Francisco Rojas",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile y Colo Colo"
-  },
-  {
-    "nombre": "Roberto",
-    "apellido": "Rojas",
-    "nombreCompleto": "Roberto Rojas",
-    "posicion": "POR",
-    "clubes": "Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Portero histórico, campeón con Colo Colo"
-  },
-  {
-    "nombre": "Sebastián",
-    "apellido": "Rozental",
-    "nombreCompleto": "Sebastián Rozental",
-    "posicion": "DEL",
-    "clubes": "Universidad Católica",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero"
-  },
-  {
-    "nombre": "Hugo",
-    "apellido": "Rubio",
-    "nombreCompleto": "Hugo Rubio",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Delantero, campeón con Universidad de Chile y Colo Colo"
-  },
-  {
-    "nombre": "Mario",
-    "apellido": "Salas",
-    "nombreCompleto": "Mario Salas",
-    "posicion": "DEL",
-    "clubes": "Universidad Católica",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "DT, como jugador no destacó"
-  },
-  {
-    "nombre": "Marcelo",
-    "apellido": "Salas",
-    "nombreCompleto": "Marcelo Salas",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile, River Plate, Lazio, Juventus",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Ídolo de la U, bicampeón en 1994-1995 con Universidad de Chile"
-  },
-  {
-    "nombre": "Alexis",
-    "apellido": "Sánchez",
-    "nombreCompleto": "Alexis Sánchez",
-    "posicion": "DEL",
-    "clubes": "Cobreloa, Colo Colo, River Plate, Udinese, Barcelona, Arsenal, Manchester United, Inter de Milán, Olympique Marseille, Sevilla",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Campeón con Colo Colo en 2006 y 2007"
-  },
-  {
-    "nombre": "Arturo",
-    "apellido": "Sanhueza",
-    "nombreCompleto": "Arturo Sanhueza",
-    "posicion": "MED",
-    "clubes": "Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Colo Colo"
-  },
-  {
-    "nombre": "José Luis",
-    "apellido": "Sierra",
-    "nombreCompleto": "José Luis Sierra",
-    "posicion": "DEL",
-    "clubes": "Universidad Católica, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Delantero, campeón con Universidad Católica y Colo Colo"
-  },
-  {
-    "nombre": "Joel",
-    "apellido": "Soto",
-    "nombreCompleto": "Joel Soto",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Humberto",
-    "apellido": "Suazo",
-    "nombreCompleto": "Humberto Suazo",
-    "posicion": "DEL",
-    "clubes": "San Antonio Unido, Nublense, Colo Colo, Monterrey, Real Sociedad",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Campeón con Colo Colo en 2006 y 2007"
-  },
-  {
-    "nombre": "Nelson",
-    "apellido": "Tapia",
-    "nombreCompleto": "Nelson Tapia",
-    "posicion": "POR",
-    "clubes": "Cobreloa, Colo Colo, Toluca, O'Higgins",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Portero, campeón con Cobreloa en 2003 y con Colo Colo en 2006-2007"
-  },
-  {
-    "nombre": "Héctor",
-    "apellido": "Tapia",
-    "nombreCompleto": "Héctor Tapia",
-    "posicion": "MED",
-    "clubes": "Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Colo Colo"
-  },
-  {
-    "nombre": "Rodrigo",
-    "apellido": "Tello",
-    "nombreCompleto": "Rodrigo Tello",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile, Sporting Portugal, Betis",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Patricio",
-    "apellido": "Toledo",
-    "nombreCompleto": "Patricio Toledo",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Cristopher",
-    "apellido": "Toselli",
-    "nombreCompleto": "Cristopher Toselli",
-    "posicion": "POR",
-    "clubes": "Universidad Católica",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Portero, campeón con Universidad Católica"
-  },
-  {
-    "nombre": "Luka",
-    "apellido": "Tudor",
-    "nombreCompleto": "Luka Tudor",
-    "posicion": "DEL",
-    "clubes": "Universidad Católica",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero croata-chileno"
-  },
-  {
-    "nombre": "Raimundo",
-    "apellido": "Tupper",
-    "nombreCompleto": "Raimundo Tupper",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor histórico, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Juan Pablo",
-    "apellido": "Úbeda",
-    "nombreCompleto": "Juan Pablo Úbeda",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero de los años 90"
-  },
-  {
-    "nombre": "Jaime",
-    "apellido": "Valdés",
-    "nombreCompleto": "Jaime Valdés",
-    "posicion": "MED",
-    "clubes": "Universidad Católica, Palermo, Atalanta",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Universidad Católica"
-  },
-  {
-    "nombre": "Jorge",
-    "apellido": "Valdivia",
-    "nombreCompleto": "Jorge Valdivia",
-    "posicion": "MED",
-    "clubes": "Colo Colo, Universidad de Concepción, Rayo Vallecano, Servette, Palmeiras, Al Ain, Al-Wahda",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "El 'Mago', campeón con Colo Colo en 2006"
-  },
-  {
-    "nombre": "Esteban",
-    "apellido": "Valencia",
-    "nombreCompleto": "Esteban Valencia",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "René",
-    "apellido": "Valenzuela",
-    "nombreCompleto": "René Valenzuela",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Gabriel",
-    "apellido": "Vargas",
-    "nombreCompleto": "Gabriel Vargas",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile, Universidad de Concepción, Deportes Concepción, Curicó Unido, Cobresal, Deportes Puerto Montt, Patronato",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Delantero \"El Arcángel del Gol\", campeón con U de Chile en 2011-A y 2011-C, ganó Copa Sudamericana 2011. Máximo goleador histórico de U de Concepción."
-  },
-  {
-    "nombre": "Sergio",
-    "apellido": "Vargas",
-    "nombreCompleto": "Sergio Vargas",
-    "posicion": "POR",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Arquero/Portero, campeón con Universidad de Chile en 1994, 1995, 1999 y 2000. Ídolo azul."
-  },
-  {
-    "nombre": "Jorge",
-    "apellido": "Vargas",
-    "nombreCompleto": "Jorge Vargas",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Iván",
-    "apellido": "Vásquez",
-    "nombreCompleto": "Iván Vásquez",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Marcelo",
-    "apellido": "Vega",
-    "nombreCompleto": "Marcelo Vega",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Leonardo",
-    "apellido": "Véliz",
-    "nombreCompleto": "Leonardo Véliz",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
-  },
-  {
-    "nombre": "Fernando",
-    "apellido": "Vergara",
-    "nombreCompleto": "Fernando Vergara",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 90"
-  },
-  {
-    "nombre": "Mathías",
-    "apellido": "Vidangossy",
-    "nombreCompleto": "Mathías Vidangossy",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Volante"
-  },
-  {
-    "nombre": "Christian",
-    "apellido": "Vilches",
-    "nombreCompleto": "Christian Vilches",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Defensor, campeón con Universidad de Chile y Colo Colo"
-  },
-  {
-    "nombre": "Gonzalo",
-    "apellido": "Villagra",
-    "nombreCompleto": "Gonzalo Villagra",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": true,
-    "seleccionNacional": false,
-    "detalles": "Volante, campeón con Universidad de Chile"
-  },
-  {
-    "nombre": "Manuel",
-    "apellido": "Villalobos",
-    "nombreCompleto": "Manuel Villalobos",
-    "posicion": "DEL",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Delantero"
-  },
-  {
-    "nombre": "Moisés",
-    "apellido": "Villarroel",
-    "nombreCompleto": "Moisés Villarroel",
-    "posicion": "MED",
-    "clubes": "Santiago Wanderers, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Wanderers en 2001 y con Colo Colo en 2006-2008"
-  },
-  {
-    "nombre": "Óscar",
-    "apellido": "Wirth",
-    "nombreCompleto": "Óscar Wirth",
-    "posicion": "POR",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Portero de los años 80"
-  },
-  {
-    "nombre": "Patricio",
-    "apellido": "Yáñez",
-    "nombreCompleto": "Patricio Yáñez",
-    "posicion": "MED",
-    "clubes": "Colo Colo, Real Betis, Real Valladolid, Toulouse",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Volante, campeón con Colo Colo en 1986, 1989, 1990, 1991, 1993"
-  },
-  {
-    "nombre": "Iván",
-    "apellido": "Zamorano",
-    "nombreCompleto": "Iván Zamorano",
-    "posicion": "DEL",
-    "clubes": "Cobresal, Sevilla, Real Madrid, Inter de Milán, Colo Colo",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "Campeón con Colo Colo en 2005, 2006, 2007"
-  },
-  {
-    "nombre": "Mauricio",
-    "apellido": "Zenteno",
-    "nombreCompleto": "Mauricio Zenteno",
-    "posicion": "DEF",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Defensor de los años 90"
-  },
-  {
-    "nombre": "Alonzo",
-    "apellido": "Zúñiga",
-    "nombreCompleto": "Alonzo Zúñiga",
-    "posicion": "MED",
-    "clubes": "Universidad de Chile",
-    "campeonNacional": false,
-    "seleccionNacional": false,
-    "detalles": "Jugador de los años 70"
+    "detalles": "Defensor, campeon con Colo Colo y Universidad de Chile. 2x campeón América (2015-2016)"
   }
 ]
