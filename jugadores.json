@@ -26,7 +26,7 @@
     "apellido": "Acevedo",
     "nombreCompleto": "Albert Acevedo",
     "posicion": "DEF",
-    "clubes": "Union Española, Universidad Catolica, Cobreloa, Universidad de Chile, O'Higgins, Magallanes",
+    "clubes": "Union Española, Universidad Catolica, Cobreloa, Universidad de Chile, O'Higgins, Magallanes, ",
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Casi se pitea a la arana Olivares de una patada",
@@ -39,7 +39,7 @@
     "posicion": "DEL",
     "clubes": "Union Santa Fe, San Lorenzo, Toulouse, Boca Juniors, Universidad Catolica, Yokohama Marinos, Sporting de Lisboa",
     "campeonNacional": true,
-    "seleccionNacional": true,
+    "seleccionNacional": false,
     "detalles": "El Beto Acosta, aun tiene pesadillas con Luchito Musrri",
     "dummyEuropa": true
   },
@@ -1426,7 +1426,7 @@
     "clubes": "Rosario Central, Tenerife, Lleida, Real Oviedo, Los Andes, Morelia, River Plate, Union Española, Universidad Catolica, Olimpia",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Lo mandas con 10 lucas para el asado y vuelve con 3 kilos de carne, 2 six packs y unas amigas",
+    "detalles": "Portero, Universidad Católica Primera División 2010,  Copa Chile 2011,  Copa Chile 2011,  Primera División 2016-C,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,   ,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,   ,   ,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021,   ,   ,   ,  Copa Chile 2011,  Primera División 2016-C,  Supercopa de Chile 2016,  Primera División 2016-A,  Primera División 2018,  Supercopa de Chile 2019,  Primera División 2019,  Primera División 2020,  Supercopa de Chile 2020,  Supercopa de Chile 2021,  Primera División 2021",
     "dummyEuropa": true
   },
   {
@@ -1909,7 +1909,7 @@
     "posicion": "DEL",
     "clubes": "San Jorge, Provincial Osorno, Coquimbo Unido, Deportes Iquique, Huachipato, Universidad Catolica, Universidad de Chile, Palmeiras, Union Española, Gama",
     "campeonNacional": false,
-    "seleccionNacional": true,
+    "seleccionNacional": false,
     "detalles": "Campeón con U de Chile en 2004. Argentino nacionalizado chileno.",
     "dummyEuropa": false
   },
@@ -2011,5 +2011,236 @@
     "seleccionNacional": true,
     "detalles": "Defensor, campeon con Colo Colo y Universidad de Chile. 2x campeón América (2015-2016)",
     "dummyEuropa": true
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Riffo",
+    "nombreCompleto": "Miguel Riffo",
+    "posicion": "DEF",
+    "clubes": "Colo Colo, Santiago Morning",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Colo Colo en 7 oportunidades",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Waldo",
+    "apellido": "Ponce",
+    "nombreCompleto": "Waldo Ponce",
+    "posicion": "DEF",
+    "clubes": "Universidad de Chile, Wolfsburgo, Velez Sarsfield, O'Higgins, Universidad Catolica, Racing de Santander, Cruz Azul, Universidad de Concepcion",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad de Chile y Universidad Catolica",
+    "dummyEuropa": true
+  },
+  {
+    "nombre": "Rafael",
+    "apellido": "Olarra",
+    "nombreCompleto": "Rafael Olarra",
+    "posicion": "DEF",
+    "clubes": "Rangers de Talca, Universidad de Chile, Osasuna, Independiente, Universidad Catolica, Maccabi Haifa, Union Española, Audax Italiano",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad de Chile y Universidad Catolica",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "David",
+    "apellido": "Henriquez",
+    "nombreCompleto": "David Henriquez",
+    "posicion": "DEF",
+    "clubes": "Colo Colo, Beira Mar, Morelia, Dorados de Sinaloa, Universidad Catolica",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Colo Colo y Universidad Catolica",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Quinteros",
+    "nombreCompleto": "Jorge Quinteros",
+    "posicion": "DEL",
+    "clubes": "Argentinos Juniors, Padova, RCD Mallorca, San Lorenzo, Chacarita Juniors, Talleres de Cordoba, Universidad Catolica",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad Catolica",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Francisco",
+    "apellido": "Arrue",
+    "nombreCompleto": "Francisco Arrue",
+    "posicion": "MED",
+    "clubes": "Colo Colo, Santiago Morning, Universidad Catolica, Lucerna, Leganes, Puebla, Universidad de Chile, Atletico Nacional, Universidad de Concepcion, Deportes La Serena, Huachipato, Coquimbo Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Colo Colo y Universidad Catolica ",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Esteban",
+    "apellido": "Fuertes",
+    "nombreCompleto": "Esteban Fuertes",
+    "posicion": "DEL",
+    "clubes": "Club Atletico Sporting, Independiente, El Porvenir, Los Andes, Platense, Racing Club, Colon de Santa Fe, Derby County, Lens, Tenerife, River Plate, Universidad Catolica, Sport Boys",
+    "campeonNacional": false,
+    "seleccionNacional": false,
+    "detalles": "Delantero, campeon del torneo argentino con River Plate",
+    "dummyEuropa": true
+  },
+  {
+    "nombre": "Boris",
+    "apellido": "Gonzalez",
+    "nombreCompleto": "Boris Gonzalez",
+    "posicion": "DEF",
+    "clubes": "Rangers de Talca, Cobreloa, Colo Colo, Universidad Catolica, Deportes Antofagasta, Curico Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Cobreloa y Colo Colo",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Marcos",
+    "apellido": "Gonzalez",
+    "nombreCompleto": "Marcos Gonzalez",
+    "posicion": "DEF",
+    "clubes": "Universidad de Chile, Rangers de Talca, Colon de Santa Fe, Palestino, Columbus Crew, Universidad Catolica, Flamengo, Union Española, Necaxa",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad de Chile y Universidad Catolica. Campeon Copa Sudamericana 2011. Lobo del aire",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Nestor",
+    "apellido": "Gorosito",
+    "nombreCompleto": "Nestor Gorosito",
+    "posicion": "MED",
+    "clubes": "River Plate, San Lorenzo, Swarovski Tirol, Universidad Catolica, Yokohama Marinos",
+    "campeonNacional": false,
+    "seleccionNacional": false,
+    "detalles": "Mediocampista, campeon de la Copa Libertadores con River Plate",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Felipe",
+    "apellido": "Gutierrez",
+    "nombreCompleto": "Felipe Gutierrez",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica, FC Twente, Jong Twente, Real Betis, Inter de Porto Alegre, Kansas City, Colorado Rapids, Al-Wasl",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades. Campeon de la Copa America 2015",
+    "dummyEuropa": true
+  },
+  {
+    "nombre": "Facundo",
+    "apellido": "Imboden",
+    "nombreCompleto": "Facundo Imboden",
+    "posicion": "DEF",
+    "clubes": "Boca Juniors, Belgrano, Millonarios, Olimpo, Universidad Catolica, Gimnasia y Esgrima La Plata, Ferro, Deportivo Cuenca",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad Catolica",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Arturo",
+    "apellido": "Norambuena",
+    "nombreCompleto": "Arturo Norambuena",
+    "posicion": "DEL",
+    "clubes": "Iberia, Santiago Morning, Universidad de Concepcion, Audax Italiano, Universidad Catolica, Quilmes, Cobreloa, Puerto Rico Islanders",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad Catolica y Cobreloa",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Patricio",
+    "apellido": "Ormazabal",
+    "nombreCompleto": "Patricio Ormazabal",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica, San Lorenzo, Arsenal, Universidad de Chile, Dorados de Sinaloa, Huachipato, Curico Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Alejandro",
+    "apellido": "Osorio",
+    "nombreCompleto": "Alejandro Osorio",
+    "posicion": "MED",
+    "clubes": "O'Higgins, Universidad Catolica, Estudiantes de La Plata, Beira Mar, Deportes Antofagasta, Deportes Concepcion, Ñublense, Cobreloa",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Nelson",
+    "apellido": "Parraguez",
+    "nombreCompleto": "Nelson Parraguez",
+    "posicion": "MED",
+    "clubes": "Universidad Catolica, Necaxa, Nueva Chicago",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Eros",
+    "apellido": "Perez",
+    "nombreCompleto": "Eros Perez",
+    "posicion": "DEF",
+    "clubes": "Palestino, Colon de Santa Fe, Inter de Porto Alegre, Gimnasia y Esgrima La Plata, Lanus, Skoda Xanthi, Universidad Catolica, Union San Felipe, Ñublense",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad Catolica",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Dante",
+    "apellido": "Poli",
+    "nombreCompleto": "Dante Poli",
+    "posicion": "DEF",
+    "clubes": "Universidad Catolica, Nueva Chicago, Skoda Xanthi, Union Española, Puerto Rico Islanders",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Ponce",
+    "nombreCompleto": "Miguel Ponce",
+    "posicion": "DEF",
+    "clubes": "Universidad Catolica, Deportes Temuco, Everton de Viña del Mar, Universidad de Chile",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Defensa, campeon del Campeonato Nacional con Universidad Catolica y Universidad de Chile",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Eduardo",
+    "apellido": "Rubio",
+    "nombreCompleto": "Eduardo Rubio",
+    "posicion": "DEL",
+    "clubes": "Universidad Catolica, Cruz Azul, Colo Colo, Basel, Union Española, Deportes La Serena, Lota Schwager",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad Catolica y Colo Colo",
+    "dummyEuropa": true
+  },
+  {
+    "nombre": "Rodrigo",
+    "apellido": "Valenzuela",
+    "nombreCompleto": "Rodrigo Valenzuela",
+    "posicion": "MED",
+    "clubes": "Union Española, America, Lobos UAP, Santiago Wanderers, Leon, Atlas, Veracruz, Universidad de Chile, Universidad Catolica",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica y Santiago Wanderers",
+    "dummyEuropa": false
   }
 ]
