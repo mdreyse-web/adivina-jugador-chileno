@@ -628,7 +628,7 @@
   },
   {
     "nombre": "Cristian",
-    "apellido": "Munoz",
+    "apellido": "Muñoz",
     "nombreCompleto": "Cristian Munoz",
     "posicion": "MED",
     "clubes": "Universidad de Chile, Cobreloa, Santiago Wanderers, Deportes La Serena, Santiago Morning, Deportes Puerto Montt, Deportes Melipilla, Jose Galvez, Total Chalaco, Ilioupoli, Coquimbo Unido, Iberia, Rangers de Talca, Barnechea, Union San Felipe",
@@ -909,7 +909,7 @@
     "clubes": "River Plate, Platense, Santiago Morning, Universidad de Chile, Atlas, Argentinos Juniors, Maracaibo, Palestino, Alki Larnaca",
     "campeonNacional": true,
     "seleccionNacional": false,
-    "detalles": "Delantero, campeon con Universidad de Chile y Colo Colo",
+    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad de Chile en 4 oportunidades. Campeon de la Copa Sudamericana 2011",
     "dummyEuropa": true
   },
   {
@@ -998,17 +998,6 @@
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Idolo de la U, bicampeon en 1994-1995 con Universidad de Chile",
-    "dummyEuropa": true
-  },
-  {
-    "nombre": "Alexis",
-    "apellido": "Sanchez",
-    "nombreCompleto": "Alexis Sanchez",
-    "posicion": "DEL",
-    "clubes": "Cobreloa, Udinese, Colo Colo, River Plate, Barcelona, Arsenal, Manchester United, Inter de Milan, Marseille, Sevilla",
-    "campeonNacional": true,
-    "seleccionNacional": true,
-    "detalles": "El niño Maravilla. Aun no está retirado",
     "dummyEuropa": true
   },
   {
@@ -1159,7 +1148,7 @@
     "apellido": "Valdivia",
     "nombreCompleto": "Jorge Valdivia",
     "posicion": "MED",
-    "clubes": "Universidad de Concepcion, Rayo Vallecano, Servette, Colo Colo, Palmeiras, Al-Ain, Al-Wahda, Monarcas Morelia, Mazatlan FC, Union La Calera, Necaxa",
+    "clubes": "Universidad de Concepcion, Rayo Vallecano, Servette, Colo Colo, Palmeiras, Al-Ain, Al-Wahda, Morelia, Mazatlan FC, Union La Calera, Necaxa",
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "El Mago. Idolo del Palmeiras",
@@ -1401,7 +1390,7 @@
     "apellido": "Bravo",
     "nombreCompleto": "Claudio Bravo",
     "posicion": "POR",
-    "clubes": "Colo Colo, Real Sociedad, Barcelona, Manchester City, Betis",
+    "clubes": "Colo Colo, Real Sociedad, Barcelona, Manchester City, Real Betis",
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Portero, Colo Colo Primera División de Chile 2006-A, Real Sociedad Segunda División de España 2009-10, Barcelona Primera División de España 2014-15, Barcelona Copa del Rey 2014-15, Barcelona Primera División de España 2015-16, Barcelona Copa del Rey 2015-16, Barcelona Supercopa de España 2016, Manchester City Copa de la Liga de Inglaterra 2017-18, Manchester City Premier League 2017-18, Manchester City Community Shield 2018, Manchester City Copa de la Liga de Inglaterra 2018-19, Manchester City Premier League 2018-19, Manchester City FA Cup 2018-19, Manchester City Community Shield 2019, Manchester City Copa de la Liga de Inglaterra 2019-20, Real Betis Copa del Rey 2021-22, ",
@@ -2054,7 +2043,7 @@
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Defensa, campeon del Campeonato Nacional con Colo Colo y Universidad Catolica",
-    "dummyEuropa": false
+    "dummyEuropa": true
   },
   {
     "nombre": "Jorge",
@@ -2065,7 +2054,7 @@
     "campeonNacional": true,
     "seleccionNacional": false,
     "detalles": "Delantero, campeon del Campeonato Nacional con Universidad Catolica",
-    "dummyEuropa": false
+    "dummyEuropa": true
   },
   {
     "nombre": "Francisco",
@@ -2076,7 +2065,7 @@
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Mediocampista, campeon del Campeonato Nacional con Colo Colo y Universidad Catolica ",
-    "dummyEuropa": false
+    "dummyEuropa": true
   },
   {
     "nombre": "Esteban",
@@ -2120,7 +2109,7 @@
     "campeonNacional": false,
     "seleccionNacional": false,
     "detalles": "Mediocampista, campeon de la Copa Libertadores con River Plate",
-    "dummyEuropa": false
+    "dummyEuropa": true
   },
   {
     "nombre": "Felipe",
@@ -2175,7 +2164,7 @@
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades",
-    "dummyEuropa": false
+    "dummyEuropa": true
   },
   {
     "nombre": "Nelson",
@@ -2197,7 +2186,7 @@
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Defensa, campeon del Campeonato Nacional con Universidad Catolica",
-    "dummyEuropa": false
+    "dummyEuropa": true
   },
   {
     "nombre": "Dante",
@@ -2208,7 +2197,7 @@
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Defensa, campeon del Campeonato Nacional con Universidad Catolica en 2 oportunidades",
-    "dummyEuropa": false
+    "dummyEuropa": true
   },
   {
     "nombre": "Miguel",
@@ -2241,6 +2230,50 @@
     "campeonNacional": true,
     "seleccionNacional": true,
     "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad Catolica y Santiago Wanderers",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Leonel",
+    "apellido": "Sanchez",
+    "nombreCompleto": "Leonel Sanchez",
+    "posicion": "DEL",
+    "clubes": "Universidad de Chile, Colo Colo, Ferroviarios, Palestino",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad de Chile y Colo Colo. Uno de los idolos maximos de Universidad de Chile",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Daniel",
+    "apellido": "Gonzalez",
+    "nombreCompleto": "Daniel Gonzalez",
+    "posicion": "MED",
+    "clubes": "Everton de Viña del Mar, O'Higgins, Colo Colo, Cobreloa, Audax Italiano, Huachipato, Deportes Antofagasta, Capibaribe, Barnechea, Trasandino, San Antonio Unido",
+    "campeonNacional": true,
+    "seleccionNacional": true,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Huachipato",
+    "dummyEuropa": false
+  },
+  {
+    "nombre": "Sebastian",
+    "apellido": "Pinto",
+    "nombreCompleto": "Sebastian Pinto",
+    "posicion": "DEL",
+    "clubes": "Universidad de Chile, Cobreloa, Santos, Godoy Cruz, Audax Italiano, Varese, O'Higgins, Bursaspor, Millonarios, Eskisehirspor, Palestino, Deportes Temuco",
+    "campeonNacional": false,
+    "seleccionNacional": true,
+    "detalles": "Delantero formado en Universidad de Chile",
+    "dummyEuropa": true
+  },
+  {
+    "nombre": "Walter",
+    "apellido": "Montillo",
+    "nombreCompleto": "Walter Montillo",
+    "posicion": "MED",
+    "clubes": "San Lorenzo, Morelia, Universidad de Chile, Cruzeiro, Santos, Shandong Luneng, Botafogo, Tigre",
+    "campeonNacional": true,
+    "seleccionNacional": false,
+    "detalles": "Mediocampista, campeon del Campeonato Nacional con Universidad de Chile. El Buque Insignia",
     "dummyEuropa": false
   }
 ]
