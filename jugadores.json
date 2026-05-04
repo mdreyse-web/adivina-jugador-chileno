@@ -1576,7 +1576,7 @@
     "nombre": "Victor Hugo",
     "apellido": "Castaneda",
     "nombreCompleto": "Victor Hugo Castaneda",
-    "posicion": "MED",
+    "posicion": "DEF",
     "clubes": "Palestino, Deportes Concepcion, Universidad de Chile",
     "campeonNacional": true,
     "seleccionNacional": true,
@@ -1897,7 +1897,7 @@
     "nombreCompleto": "Sergio Gioino",
     "posicion": "DEL",
     "clubes": "San Jorge, Provincial Osorno, Coquimbo Unido, Deportes Iquique, Huachipato, Universidad Catolica, Universidad de Chile, Palmeiras, Union Española, Gama",
-    "campeonNacional": false,
+    "campeonNacional": true,
     "seleccionNacional": false,
     "detalles": "Campeón con U de Chile en 2004. Argentino nacionalizado chileno.",
     "dummyEuropa": false
@@ -2240,7 +2240,7 @@
     "clubes": "Universidad de Chile, Colo Colo, Ferroviarios, Palestino",
     "campeonNacional": true,
     "seleccionNacional": true,
-    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad de Chile y Colo Colo. Uno de los idolos maximos de Universidad de Chile",
+    "detalles": "Delantero, campeon del Campeonato Nacional con Universidad de Chile y Colo Colo",
     "dummyEuropa": false
   },
   {
